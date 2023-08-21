@@ -27,4 +27,6 @@ Please check the complete outline in the syllabus. The table below progressively
 
 ## Contact Information
 
+Office Hours (**Appointment Required (at least 2 days in advance)**): Every Tuesday 2-4pm.
+
 In case you need to communicate or ask any questions about the course, please send a direct message via Slack.
