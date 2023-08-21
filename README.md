@@ -13,20 +13,17 @@
 
 Please check the complete outline in the syllabus. The table below progressively provides a summary of the topics that are planned to be covered in the next 1-2 weeks.
 
-| Class | Date      | Topic                               | Slide | In-class Exercise (if any) |
-|-------|-----------|-------------------------------------|-------|----------------------------|
-| 1     | 21 August | Introduction (Software Engineering) |       |                            |
-| 2     | 23 August | Introduction (Generative AI)        |       |                            |
-| 3     | 28 August | Basics of Code Representation       |       |                            |
-| 4     | 30 August | Recent Code Embedding Techniques    |       |                            |
-| TBA   |           |                                     |       |                            |
+| Class | Date         | Topic                               | Slide | In-class Exercise (if any) |
+| ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
+| 1     | 21 August    | Introduction (Software Engineering) |  [PDF](lectures/C1-Introduction%20(Software%20Engineering).pdf)     |                            |
+| 2     | 23 August    | Introduction (Generative AI)        |       |                            |
+| 3     | 28 August    | Naturalness of Software             |       |                            |
+| 4     | 30 August    | Code Distribution                   |       |                            |
+| 5     | 6 September  | Basics of Code Representation       |       |                            |
+| 6     | 11 September | Recent Code Embedding Techniques    |       |                            |
+| TBA   |              |                                     |       |                            |
 
 
 ## Contact Information
 
 In case you need to communicate or ask any questions about the course, please send a direct message via Slack.
-
-
-
-
-
