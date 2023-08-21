@@ -13,9 +13,10 @@
 
 Please check the complete outline in the syllabus. The table below progressively provides a summary of the topics that are planned to be covered in the next 1-2 weeks.
 
-| Class | Date         | Topic                               | Slide | In-class Exercise (if any) |
+| Class | Date         | Topic                               | Slides | In-class Exercise (if any) |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
-| 1     | 21 August    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1NMwO9j98gQW4entOo0BKwLhAh4n5Ow6a/view?usp=sharing)     |                            |
+| 0   |      21 August        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |
+| 1     | 21 August    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |
 | 2     | 23 August    | Introduction (Generative AI)        |       |                            |
 | 3     | 28 August    | Naturalness of Software             |       |                            |
 | 4     | 30 August    | Code Distribution                   |       |                            |
