@@ -9,22 +9,15 @@
 - [Communication-Slack Workspace](https://join.slack.com/t/gai4se/shared_invite/zt-21wvrgkyo-YDxaQj7WJyMVq2e7f9XsZg)
 - [Content](https://github.com/gai4se/GAI4SE-Course)
 
-## Course Outline 
+## Course Outline
 
 Please check the complete outline in the syllabus. The table below progressively provides a summary of the topics that are planned to be covered recently.
 
-<<<<<<< HEAD
-| Class | Date         | Topic                               | Slide | Note (if any) |
-| ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
-| 1     | 21 August    | Introduction (Software Engineering) |  [PDF](lectures/C1-Introduction%20(Software%20Engineering).pdf)     |                            |
-| 2     | 23 August    | Introduction (Generative AI)        |   [PDF](https://drive.google.com/file/d/1fGlouhWeusPlLHzl4rmG7XqEU6r57EGq/view?usp=sharing)    |                            |
-=======
-| Class | Date         | Topic                               | Slides | In-class Exercise (if any) |
+| Class | Date         | Topic                               | Slides | Notes (if any) |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
 | 0   |      21 August        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |
-| 1     | 21 August    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |
+| 1     | 21 August    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |     [Play-with-ChatGPT-API](exercise/play-with-chatgpt-via-api)                       |
 | 2     | 23 August    | Introduction (Generative AI)        |       |                            |
->>>>>>> 9c6891f550d0e6922ee6d324a755bb99b544dce5
 | 3     | 28 August    | Naturalness of Software             |       |                            |
 | 4     | 30 August    | Code Distribution                   |       |                            |
 | 5     | 6 September  | Basics of Code Representation       |       |                            |
