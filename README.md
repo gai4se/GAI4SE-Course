@@ -18,12 +18,9 @@ Please check the complete outline in the syllabus. The table below progressively
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
 | 0   |      21 August        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |
 | 1     | 21 August    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |
-| 2     | 23 August    | Introduction (Generative AI)        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |       [Play-with-ChatGPT-API](exercise/play-with-chatgpt-via-api)                     |
-| 3     | 28 August    | Naturalness of Software             |       |                            |
-| 4     | 30 August    | Code Distribution                   |       |                            |
-| 5     | 6 September  | Basics of Code Representation       |       |                            |
-| 6     | 11 September | Recent Code Embedding Techniques    |       |                            |
-| TBA   |              |                                     |       |                            |
+| 2     | 23 August    | Introduction (Generative AI) - 1        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |                            |
+| 3     | 28 August    |  Introduction (Generative AI) - 2     |       |       [Play-with-ChatGPT-via-API](exercise/play-with-chatgpt-via-api)                     |
+| 4     | 30 August    | Code Distribution                   |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)     |       [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)                     |
 
 
 ## Contact Information
