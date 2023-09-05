@@ -21,6 +21,9 @@ Please check the complete outline in the syllabus. The table below progressively
 | 2     | 23 August    | Introduction (Generative AI) - 1        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |                            |
 | 3     | 28 August    |  Introduction (Generative AI) - 2     |       |       [Play-with-ChatGPT-via-API](exercise/play-with-chatgpt-via-api)                     |
 | 4     | 30 August    | Code Distribution                   |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)     |       [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)                     |
+| 5     | 6 September     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |
+| 7     | 11 September     |     Exercise of Code Distribution + Basics of Large Language Model                |  TBA    |                           |
+| 8     |  TBA    |                    |       |                           |
 
 
 ## Contact Information
