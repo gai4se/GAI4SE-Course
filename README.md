@@ -25,6 +25,10 @@ Please check the complete outline in the syllabus. The table below progressively
 | 7     | 11 September     |   Code Distribution - 2 & Basics of Large Language Model                |  [PDF]()    |                           |
 | 8     |  TBA    |                    |       |                           |
 
+## Extra Resources
+
+- [Explain Transformer Structure with Code](http://nlp.seas.harvard.edu/annotated-transformer)
+
 
 ## Contact Information
 
