@@ -28,7 +28,7 @@ Please check the complete outline in the syllabus. The table below progressively
 ## Extra Resources
 
 - [Explain Transformer Structure with Code](http://nlp.seas.harvard.edu/annotated-transformer)
-
+- [Finetuning Large Language Models (1hr)](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
 ## Contact Information
 
