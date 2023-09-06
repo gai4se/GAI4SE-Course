@@ -14,15 +14,15 @@
 Please check the complete outline in the syllabus. The table below progressively provides a summary of the topics that are planned to be covered recently.
 
 
-| Class | Date         | Topic                               | Slides | Notes (if any) |
+| Class | Date         | Topic                               | Content | Exercise (if any) |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
 | 0   |      21 August        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |
 | 1     | 21 August    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |
 | 2     | 23 August    | Introduction (Generative AI) - 1        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |                            |
 | 3     | 28 August    |  Introduction (Generative AI) - 2     |       |       [Play-with-ChatGPT-via-API](exercise/play-with-chatgpt-via-api)                     |
-| 4     | 30 August    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)     |       [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)     [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                |
+| 4     | 30 August    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)  , [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)  |            [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                |
 | 5     | 6 September     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |
-| 7     | 11 September     |   Code Distribution -  & Basics of Large Language Model                |  [PDF]()    |                           |
+| 7     | 11 September     |   Code Distribution - 2 & Basics of Large Language Model                |  [PDF]()    |                           |
 | 8     |  TBA    |                    |       |                           |
 
 
