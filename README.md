@@ -28,7 +28,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 7     |  13 September, Wed    |                    |       |                           |
 | 8     |  18 September, Mon    |                    |       |                           |
 | 9     |  20 September, Wed    |                    |       |                           |
-| DEADLINE     | 24 August, Sun    |  Identify target topic for group project     |       |            |
+| DEADLINE     | 24 September, Sun    |  Identify target topic for group project     |       |            |
 | 10     |  25 September, Mon    |                    |       |                           |
 |  11    |  27 September    |                    |       |                           |
 |  12    |  2 October, Mon    |    Group Project Consultation - 1 (no class)     |       |                           |
