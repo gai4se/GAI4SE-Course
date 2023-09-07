@@ -9,21 +9,49 @@
 - [Communication-Slack Workspace](https://join.slack.com/t/gai4se/shared_invite/zt-21wvrgkyo-YDxaQj7WJyMVq2e7f9XsZg)
 - [Content](https://github.com/gai4se/GAI4SE-Course)
 
-## Course Outline
+## Course Outline (*Tentative, may be updated based on students' feedback*)
 
 Please check the complete outline in the syllabus. The table below progressively provides a summary of the topics that are planned to be covered recently.
 
 
 | Class | Date         | Topic                               | Content | Exercise (if any) |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
-| 0   |      21 August        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |
-| 1     | 21 August    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |
-| 2     | 23 August    | Introduction (Generative AI) - 1        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |                            |
-| 3     | 28 August    |  Introduction (Generative AI) - 2     |       |       [Play-with-ChatGPT-via-API](exercise/play-with-chatgpt-via-api)                     |
-| 4     | 30 August    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)  , [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)  |            [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                |
-| 5     | 6 September     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |
-| 7     | 11 September     |   Code Distribution - 2 & Basics of Machine Learning                |  [PDF]()    |                           |
-| 8     |  TBA    |                    |       |                           |
+| 0   |      21 August, Mon        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |
+| 1     | 21 August, Mon    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |
+| 2     | 23 August, Wed    | Introduction (Generative AI) - 1        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |                            |
+| DEADLINE     | 27 August    |  Form team for group project     |       |            |
+| 3     | 28 August, Mon    |  Introduction (Generative AI) - 2     |       |       [Play-with-ChatGPT-via-API](exercise/play-with-chatgpt-via-api)                     |
+| 4     | 30 August, Wed    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)  , [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)  |            [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                |
+|  BREAK    |  4 September, Mon    |     Labor Day              |       |                           |
+| 5     | 6 September, Wed     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |
+| 6     | 11 September, Mon     |   Code Distribution - 2 & Basics of Machine Learning                |  [PDF]()    |                           |
+| 7     |  13 September, Wed    |                    |       |                           |
+| 8     |  18 September, Mon    |                    |       |                           |
+| 9     |  20 September, Wed    |                    |       |                           |
+| DEADLINE     | 24 August, Sun    |  Identify target topic for group project     |       |            |
+| 10     |  25 September, Mon    |                    |       |                           |
+|  11    |  27 September    |                    |       |                           |
+|  12    |  2 October, Mon    |    Group Project Consultation - 1 (no class)     |       |                           |
+|  13    |  4 October, Wed    |   Group Project Consultation - 2 (no class)                 |       |                           |
+| BREAK     |  9 September, Mon    |     Fall break               |       |                           |
+|  14, DEADLINE    |  11 October, Wed    |  Recent Trends + Group Project Proposal Presentation - 1                |       |                           |
+|  15, DEADLINE    |  16 October, Mon    |  Recent Trends + Group Project Proposal Presentation - 2                 |       |                           |
+|  16, DEADLINE    |  18 October, Wed    |   Mid-term Exam (NO ONE SHOULD MISS IT!!!)                 |       |                           |
+|  17    |  23 October, Mon    |                    |       |                           |
+|  18    |  25 October, Wed    |                    |       |                           |
+|  19    |  30 October, Mon    |                    |       |                           |
+|  20    |  1 November, Wed    |                    |       |                           |
+|  21    |  6 November, Mon    |                    |       |                           |
+|  22    |  8 November, Wed    |                    |       |                           |
+|  23    |  13 November, Mon    |                    |       |                           |
+|  24    |  15 November, Wed    |                    |       |                           |
+|  25    |  20 November, Mon    |                    |       |                           |
+|  26, DEADLINE    |  22 November, Wed    |  Class Project Solution Presentation - 1                  |       |                           |
+|  27, DEADLINE    |  27 November, Mon    |   Class Project Solution Presentation - 2                 |       |                           |
+|  28, DEADLINE    |  29 November, Wed    |    Class Project Solution Presentation - 3               |       |                           |
+|  29    |  4 December, Mon    |     Group Project Submission Preparation               |       |                           |
+|  DEADLINE   |  10 December, Sun    |     Group Project Submission               |       |                           |
+
 
 ## Extra Resources
 
