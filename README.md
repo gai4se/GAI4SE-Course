@@ -23,7 +23,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 0   |      21 August, Mon        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |                           |
 | 1     | 21 August, Mon    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |                          |
 | 2     | 23 August, Wed    | Introduction (Generative AI) - 1        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |                            |                          |
-| DEADLINE     | 27 August    |  Form team for group project     |       |            |
+| **DEADLINE**     | 27 August    |  Form team for group project     |       |            |
 | 3     | 28 August, Mon    |  Introduction (Generative AI) - 2     |       |       [Play-with-ChatGPT-via-API](exercise/play-with-chatgpt-via-api)                     |                          |
 | 4     | 30 August, Wed    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)  , [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)  |            [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                |                          |
 |  BREAK    |  4 September, Mon    |     Labor Day              |       |                           |                          |
@@ -32,15 +32,15 @@ Please check the complete outline in the syllabus. The table below progressively
 | 7     |  13 September, Wed    |                    |       |                           |                          |
 | 8     |  18 September, Mon    |                    |       |                           |                          |
 | 9     |  20 September, Wed    |                    |       |                           |                          |
-| DEADLINE     | 24 September, Sun    |  Identify target topic for group project     |       |            |                          |
+| **DEADLINE**     | 24 September, Sun    |  Identify target topic for group project     |       |            |                          |
 | 10     |  25 September, Mon    |                    |       |                           |                          |
 |  11    |  27 September    |                    |       |                           |                          |
 |  12    |  2 October, Mon    |    Group Project Consultation - 1 (no class)     |       |                           |                          |
 |  13    |  4 October, Wed    |   Group Project Consultation - 2 (no class)                 |       |                           |                          |
 | BREAK     |  9 September, Mon    |     Fall break               |       |                           |
-|  14, DEADLINE    |  11 October, Wed    |  Recent Trends + Group Project Proposal Presentation - 1                |       |                           |                          |
-|  15, DEADLINE    |  16 October, Mon    |  Recent Trends + Group Project Proposal Presentation - 2                 |       |                           |                          |
-|  16, DEADLINE    |  18 October, Wed    |   Mid-term Exam (NO ONE SHOULD MISS IT!!!)                 |       |                           |                          |
+|  14, **DEADLINE**    |  11 October, Wed    |  Recent Trends + Group Project Proposal Presentation - 1                |       |                           |                          |
+|  15, **DEADLINE**    |  16 October, Mon    |  Recent Trends + Group Project Proposal Presentation - 2                 |       |                           |                          |
+|  16, **DEADLINE**    |  18 October, Wed    |   Mid-term Exam (NO ONE SHOULD MISS IT!!!)                 |       |                           |                          |
 |  17    |  23 October, Mon    |                    |       |                           |                          |
 |  18    |  25 October, Wed    |                    |       |                           |                          |
 |  19    |  30 October, Mon    |                    |       |                           |                          |
@@ -50,11 +50,11 @@ Please check the complete outline in the syllabus. The table below progressively
 |  23    |  13 November, Mon    |                    |       |                           |                          |
 |  24    |  15 November, Wed    |                    |       |                           |                          |
 |  25    |  20 November, Mon    |                    |       |                           |                          |
-|  26, DEADLINE    |  22 November, Wed    |  Class Project Solution Presentation - 1                  |       |                           |                          |
-|  27, DEADLINE    |  27 November, Mon    |   Class Project Solution Presentation - 2                 |       |                           |                          |
-|  28, DEADLINE    |  29 November, Wed    |    Class Project Solution Presentation - 3               |       |                           |                          |
+|  26, **DEADLINE**    |  22 November, Wed    |  Class Project Solution Presentation - 1                  |       |                           |                          |
+|  27, **DEADLINE**    |  27 November, Mon    |   Class Project Solution Presentation - 2                 |       |                           |                          |
+|  28, **DEADLINE**    |  29 November, Wed    |    Class Project Solution Presentation - 3               |       |                           |                          |
 |  29    |  4 December, Mon    |     Group Project Submission Preparation               |       |                           |                          |
-|  DEADLINE   |  10 December, Sun    |     Group Project Submission               |       |                           |                          |
+|  **DEADLINE**   |  10 December, Sun    |     Group Project Submission               |       |                           |                          |
 
 
 ## Group Project
