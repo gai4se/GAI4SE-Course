@@ -1,4 +1,8 @@
-<img src="imgs/copilot.jpeg" alt="gai4se"/>
+<figure>
+  <img src="imgs/copilot.jpeg" alt="gai4se"/>
+  <figcaption>Copilot</figcaption>
+  <a href="https://practical365.com/microsoft-365-copilot-costs">(Image Source)</a>
+</figure>
 
 # Course: Generative AI for Software Engineering (GAI4SE) 
 
