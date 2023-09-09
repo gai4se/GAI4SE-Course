@@ -57,8 +57,22 @@ Please check the complete outline in the syllabus. The table below progressively
 |  DEADLINE   |  10 December, Sun    |     Group Project Submission               |       |                           |                          |
 
 
-## Group Project Tips
-- [What is a good presentation?]() - Advice from Dr. Danqi Chen from Princeton University
+## Group Project
+
+### What is a good presentation? 
+
+[Partially source](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+
+  - The oldest paper we are going to read is 4 years old. Most papers were published in the past 1-2 years (if not a few months).
+  - They represent the state-of-the-art of the field and our _current understanding_ of LLMs
+  - All research builds on previous research: putting things in context when you read and present a paper!! You are expected to read more if you want to fully understand papers
+  - When you present a paper:
+    - Highlight the biggest take-aways
+    - Think about why this paper is important
+    - Explain the characteristics of the used data
+    - Pay attention to technical details too
+    - Choose and present experimental results properly
+    - (Bonus) What can be done in the future?
 
 ## Extra Resources
 
