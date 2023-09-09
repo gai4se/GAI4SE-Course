@@ -57,6 +57,9 @@ Please check the complete outline in the syllabus. The table below progressively
 |  DEADLINE   |  10 December, Sun    |     Group Project Submission               |       |                           |                          |
 
 
+## Group Project Tips
+- [What is a good presentation?]() - Advice from Dr. Danqi Chen from Princeton University
+
 ## Extra Resources
 
 - [Explain Transformer Structure with Code](http://nlp.seas.harvard.edu/annotated-transformer)
