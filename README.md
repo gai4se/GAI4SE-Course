@@ -14,7 +14,7 @@
 Please check the complete outline in the syllabus. The table below progressively provides a summary of the topics that are planned to be covered recently.
 
 
-| Class | Date         | Topic                               | Content | Exercise (if any) |
+| Class | Date         | Topic                               | Content | Notes (if any) |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- |
 | 0   |      21 August, Mon        |      Course Introduction        |   [PDF](https://drive.google.com/file/d/1Ye4xZP2g9gt-kVYtPuj-kdFP0uWraRha/view?usp=sharing)    |                            |
 | 1     | 21 August, Mon    | Introduction (Software Engineering) |  [PDF](https://drive.google.com/file/d/1eQw8ZAUDFtt7oxBrcR-Os8Rk-uWUGsIX/view?usp=sharing)     |                            |
@@ -24,7 +24,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 4     | 30 August, Wed    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)  , [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)  |            [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                |
 |  BREAK    |  4 September, Mon    |     Labor Day              |       |                           |
 | 5     | 6 September, Wed     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |
-| 6     | 11 September, Mon     |   Code Distribution - 2 & Basics of Machine Learning                |  [PDF]()    |                           |
+| 6     | 11 September, Mon     |   Code Distribution - 2 & Basics of Machine Learning & LLM                |  [PDF]()    |                           |
 | 7     |  13 September, Wed    |                    |       |                           |
 | 8     |  18 September, Mon    |                    |       |                           |
 | 9     |  20 September, Wed    |                    |       |                           |
