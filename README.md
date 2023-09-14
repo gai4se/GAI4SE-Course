@@ -29,8 +29,8 @@ Please check the complete outline in the syllabus. The table below progressively
 |  BREAK    |  4 September, Mon    |     Labor Day              |       |                           |                          |
 | 5     | 6 September, Wed     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |                          |
 | 6     | 11 September, Mon     |   Code Distribution - 2 & Basics of Machine Learning & Large Language Model                |  [PDF](https://drive.google.com/file/d/1wV5BUJkxK419vjG3Ls4FhPkXGVSfq886/view?usp=sharing)    |                           |                          |
-| 7     |  13 September, Wed    |                    |       |                           |                          |
-| 8     |  18 September, Mon    |                    |       |                           |                          |
+| 7     |  13 September, Wed    |    Code Embedding                |   [PDF]()    |                           |                          |
+| 8     |  18 September, Mon    |   Code Tokenization                 |  [PDF]()     |                           |                          |
 | 9     |  20 September, Wed    |                    |       |                           |                          |
 | **DEADLINE**     | 24 September, Sun    |  Identify target topic for group project     |       |            |                          |
 | 10     |  25 September, Mon    |                    |       |                           |                          |
