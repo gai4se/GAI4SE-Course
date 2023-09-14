@@ -25,13 +25,13 @@ Please check the complete outline in the syllabus. The table below progressively
 | 2     | 23 August, Wed    | Introduction (Generative AI) - 1        |  [PDF](https://drive.google.com/file/d/1M07WQTJIm32Ss-mytBbCh97KFBVqhv-N/view?usp=sharing)     |                            |                          |
 | **DEADLINE**     | 27 August    |  Form team for group project     |       |            |
 | 3     | 28 August, Mon    |  Introduction (Generative AI) - 2     |       |       [Play-with-ChatGPT-via-API](exercise/play-with-chatgpt-via-api)                     |                          |
-| 4     | 30 August, Wed    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)  , [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)  |            [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                |                          |
+| 4     | 30 August, Wed    | Code Distribution - 1                 |  [PDF](https://drive.google.com/file/d/1JTlPGCoQ_z8EeGRH-XUkPSDj453XBbv5/view?usp=sharing)  , [Video](https://drive.google.com/file/d/1GoAncbqdbxFGAFovB9Tk8k8sjp5Q5tFV/view?usp=sharing)  |                      |                          |
 |  BREAK    |  4 September, Mon    |     Labor Day              |       |                           |                          |
 | 5     | 6 September, Wed     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |                          |
-| 6     | 11 September, Mon     |   Code Distribution - 2 & Basics of Machine Learning & Large Language Model                |  [PDF](https://drive.google.com/file/d/1wV5BUJkxK419vjG3Ls4FhPkXGVSfq886/view?usp=sharing)    |                           |                          |
-| 7     |  13 September, Wed    |    Code Embedding                |   [PDF]()    |                           |                          |
-| 8     |  18 September, Mon    |   Code Tokenization                 |  [PDF]()     |                           |                          |
-| 9     |  20 September, Wed    |                    |       |                           |                          |
+| 6     | 11 September, Mon     |   Code Distribution - 2                 |   |     [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                      |                          |
+| 7     |  13 September, Wed    |   Basics of Machine Learning & Large Language Model                 |   [PDF](https://drive.google.com/file/d/1wV5BUJkxK419vjG3Ls4FhPkXGVSfq886/view?usp=sharing)    |                           |                          |
+| 8     |  18 September, Mon    |   Code Embedding                 |  [PDF]()     |                           |                          |
+| 9     |  20 September, Wed    |     Code Tokenization               |       |                           |                          |
 | **DEADLINE**     | 24 September, Sun    |  Identify target topic for group project     |       |            |                          |
 | 10     |  25 September, Mon    |                    |       |                           |                          |
 |  11    |  27 September    |                    |       |                           |                          |
