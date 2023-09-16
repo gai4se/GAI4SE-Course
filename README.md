@@ -59,6 +59,8 @@ Please check the complete outline in the syllabus. The table below progressively
 
 ## Group Project
 
+- [Slide Template for Discussion and Proposal Presentation](https://docs.google.com/presentation/d/1sT_tjErpoc7Hx1mPJL90LJhx-Wz5jBi1UirqS7nGxFw/edit?usp=sharing)
+
 ### What is a good presentation? 
 
 [Partial source](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
