@@ -30,7 +30,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 5     | 6 September, Wed     |     Code Smell Detection using Machine Learning               |  [PDF](https://drive.google.com/file/d/1zILhIKpPxsKDDHHqELDqFUmeTlk5M7XE/view?usp=sharing)    |                           |                          |
 | 6     | 11 September, Mon     |   Code Distribution - 2                 |   |     [Code Distribution Visualization](https://colab.research.google.com/drive/10T6PsiSYmLAv4JMaBqUNwT5__LkqKB3p?usp=sharing)                      |                          |
 | 7     |  13 September, Wed    |   Basics of Machine Learning & Large Language Model                 |   [PDF](https://drive.google.com/file/d/1wV5BUJkxK419vjG3Ls4FhPkXGVSfq886/view?usp=sharing)    |                           |                          |
-| 8     |  18 September, Mon    |   Code Embedding                 |  [PDF]()     |                           |                          |
+| 8     |  18 September, Mon    |   Code Embedding                 |  [PDF](https://drive.google.com/file/d/1i8nO7Uhb-s8E8YW-Hhny3nO6Rx6BXHfU/view?usp=sharing)     |                           |                          |
 | 9     |  20 September, Wed    |     Code Tokenization               |       |                           |                          |
 | **DEADLINE**     | 24 September, Sun    |  Identify target topic for group project     |       |            |                          |
 | 10     |  25 September, Mon    |                    |       |                           |                          |
