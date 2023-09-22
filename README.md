@@ -80,6 +80,7 @@ Please check the complete outline in the syllabus. The table below progressively
 
 - [Explain Transformer Structure with Code](http://nlp.seas.harvard.edu/annotated-transformer)
 - [Finetuning Large Language Models (1hr)](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+- [How to Read an Engineering Research Paper](https://cseweb.ucsd.edu//~wgg/CSE210/howtoread.html)
 
 ## Contact Information
 
