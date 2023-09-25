@@ -33,8 +33,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | 8     |  18 September, Mon    |   Code Embedding                 |  [PDF](https://drive.google.com/file/d/1i8nO7Uhb-s8E8YW-Hhny3nO6Rx6BXHfU/view?usp=sharing)     |                           |                          |
 | 9     |  20 September, Wed    |     Code Tokenization               |  [PDF](https://drive.google.com/file/d/186g1gkqg8PesNg2l7qVGs1XPW-5FS0Px/view?usp=sharing)     |         [Code Tokenization](https://colab.research.google.com/drive/1weLETrzEuRSUbNCObA1DTqWIOmWgQbWe?usp=sharing)  [Program Modeling](https://drive.google.com/file/d/1uaC9SAdioU6AkNCpUlY6QvFK-rWvnpUD/view?usp=sharing)                |                          |
 | **DEADLINE**     | 24 September, Sun    |  Identify target topic for group project     |       |            |                          |
-| 10     |  25 September, Mon    |                    |       |                           |                          |
-|  11    |  27 September    |                    |       |                           |                          |
+| 10     |  25 September, Mon    |    Large Language Model in Production                |       |                           |                          |
+|  11    |  27 September    |    CodeT5 and CodeRL               |  [PDF](https://docs.google.com/presentation/d/e/2PACX-1vQb6JXk2MXMJHeQ8pPj1CShOrZQmmSoPCs9J9eCAStQegbgvzdG0Q328Kw0UkLDSCqx-ji441ecyFgM/pub?start=false&loop=false&delayms=3000)     |                           |                          |
 |  12    |  2 October, Mon    |    Group Project Consultation - 1 (no class)     |       |                           |                          |
 |  13    |  4 October, Wed    |   Group Project Consultation - 2 (no class)                 |       |                           |                          |
 | BREAK     |  9 September, Mon    |     Fall break               |       |                           |
