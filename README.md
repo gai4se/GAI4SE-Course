@@ -49,8 +49,8 @@ Please check the complete outline in the syllabus. The table below progressively
 |  22    |  8 November, Wed    |                    |       |                           |                          |
 |  23    |  13 November, Mon    |                    |       |                           |                          |
 |  24    |  15 November, Wed    |                    |       |                           |                          |
-|  25    |  20 November, Mon    |                    |       |                           |                          |
-|  26, **DEADLINE**    |  22 November, Wed    |  Class Project Solution Presentation - 1                  |       |                           |                          |
+|  25, **DEADLINE**    |  20 November, Mon    |    Class Project Solution Presentation - 1                |       |                           |                          |
+|  26,     |  22 November, Wed    |   Thanks Giving Holiday (no class)                |       |                           |                          |
 |  27, **DEADLINE**    |  27 November, Mon    |   Class Project Solution Presentation - 2                 |       |                           |                          |
 |  28, **DEADLINE**    |  29 November, Wed    |    Class Project Solution Presentation - 3               |       |                           |                          |
 |  29    |  4 December, Mon    |     Group Project Submission Preparation               |       |                           |                          |
