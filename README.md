@@ -41,13 +41,13 @@ Please check the complete outline in the syllabus. The table below progressively
 |  14, **DEADLINE**    |  11 October, Wed    |  Recent Trends + Group Project Proposal Presentation - 1                |       |                           |                          |
 |  15, **DEADLINE**    |  16 October, Mon    |  Recent Trends + Group Project Proposal Presentation - 2                 |       |                           |                          |
 |  16, **DEADLINE**    |  18 October, Wed    |   Mid-term Exam (NO ONE SHOULD MISS IT!!!)                 |       |                           |                          |
-|  17    |  23 October, Mon    |                    |       |                           |                          |
-|  18    |  25 October, Wed    |                    |       |                           |                          |
-|  19    |  30 October, Mon    |                    |       |                           |                          |
-|  20    |  1 November, Wed    |                    |       |                           |                          |
-|  21    |  6 November, Mon    |                    |       |                           |                          |
-|  22    |  8 November, Wed    |                    |       |                           |                          |
-|  23    |  13 November, Mon    |                    |       |                           |                          |
+|  17    |  23 October, Mon    |   Recent Trends + Group Project Proposal Presentation - 3 + Assignment                 |       |                           |                          |
+|  18    |  25 October, Wed    |   Attack and Defense of LLM4SE (Zhou Yang, SMU)                 |       |                           |                          |
+|  19    |  30 October, Mon    |    LLM4Automated Program Repair (Steven Xia, UIUC)               |       |                           |                          |
+|  20    |  1 November, Wed    |   LLM4Software Testing (Jiawei Liu, UIUC)                |       |                           |                          |
+|  21    |  6 November, Mon    |  LLM4Automated Vulnerability Fixing   (Nan Jiang, Purdue)               |       |                           |                          |
+|  22    |  8 November, Wed    |    Human Aspect of LLM4SE  (Jenny Liang, CMU)              |       |                           |                          |
+|  23    |  13 November, Mon    |   Model Compression of LLM4SE (Jieke Shi, SMU)                 |       |                           |                          |
 |  24    |  15 November, Wed    |                    |       |                           |                          |
 |  25, **DEADLINE**    |  20 November, Mon    |    Class Project Solution Presentation - 1                |       |                           |                          |
 |  26,     |  22 November, Wed    |   Thanks Giving Holiday (no class)                |       |                           |                          |
