@@ -48,7 +48,7 @@ Please check the complete outline in the syllabus. The table below progressively
 |  21    |  6 November, Mon    |  LLM4Automated Vulnerability Fixing   (Nan Jiang, Purdue)               |       |                           |                          |
 |  22    |  8 November, Wed    |    Human Aspect of LLM4SE  (Jenny Liang, CMU)              |       |                           |                          |
 |  23    |  13 November, Mon    |   Model Compression of LLM4SE (Jieke Shi, SMU)                 |       |                           |                          |
-|  24    |  15 November, Wed    |                    |       |                           |                          |
+|  24    |  15 November, Wed    |   Sentiment Analysis for SE (Ting Zhang, SMU)                 |       |                           |                          |
 |  25, **DEADLINE**    |  20 November, Mon    |    Class Project Solution Presentation - 1                |       |                           |                          |
 |  26,     |  22 November, Wed    |   Thanks Giving Holiday (no class)                |       |                           |                          |
 |  27, **DEADLINE**    |  27 November, Mon    |   Class Project Solution Presentation - 2                 |       |                           |                          |
