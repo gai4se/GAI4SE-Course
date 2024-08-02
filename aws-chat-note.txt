@@ -1,0 +1,26 @@
+1. sagemaker studio lab -  seek approval
+
+https://studiolab.sagemaker.aws
+
+4 hours a day
+
+8gb 
+
+each student will need a account
+
+30 accounts
+
+2. aws academy
+
+3. learner lab
+
+4. skill builder
+
+5. regular sager maker
+
+6. workshop
+
+7. https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/
+
+
+
