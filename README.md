@@ -37,7 +37,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 14    | 7 October, Mon  |    *Software Defect Prediction* ((N.C. Shrikanth)                                 | [PDF]()    |                            |                           |
 | 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)*                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No classes)                              | [PDF]()    |                            |                           |
-| 17    | 16 October, Wed |                                     | [PDF]()    |                            |                           |
+| 17    | 16 October, Wed |    Mid-term Exam (NO ONE SHOULD MISS IT!!!)                                 | [PDF]()    |                            |                           |
 | 18    | 21 October, Mon |                                     | [PDF]()    |                            |                           |
 | 19    | 23 October, Wed |                                     | [PDF]()    |                            |                           |
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
@@ -45,12 +45,12 @@ Please check the complete outline in the syllabus. The table below progressively
 | 22    | 4 November, Mon |                                     | [PDF]()    |                            |                           |
 | 23    | 6 November, Wed |                                     | [PDF]()    |                            |                           |
 | 24    | 11 November, Mon |                                    | [PDF]()    |                            |                           |
-| 25    | 13 November, Wed |                                    | [PDF]()    |                            |                           |
-| 26    | 18 November, Mon |     (Martin Weyssow, University of Montreal)                               | [PDF]()    |                            |                           |
-| 27    | 20 November, Wed |                                    | [PDF]()    |                            |                           |
-| 28    | 25 November, Mon |                                    | [PDF]()    |                            |                           |
+| 25    | 13 November, Wed |  (Martin Weyssow, University of Montreal)                                  | [PDF]()    |                            |                           |
+| 26    | 18 November, Mon |   Project Solution Presentation - 1                                 | [PDF]()    |                            |                           |
+| 27    | 20 November, Wed |   Project Solution Presentation - 2                                 | [PDF]()    |                            |                           |
+| 28    | 25 November, Mon |   Project Solution Presentation - 3                                 | [PDF]()    |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  | [PDF]()    |                            |                           |
-| 30    | 2 December, Mon |                                     | [PDF]()    |                            |                           |
+| 30    | 2 December, Mon |     Group Project Submission Preparation                                | [PDF]()    |                            |                           |
 
 
 
