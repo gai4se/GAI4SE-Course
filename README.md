@@ -46,7 +46,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 23    | 6 November, Wed |                                     | [PDF]()    |                            |                           |
 | 24    | 11 November, Mon |                                    | [PDF]()    |                            |                           |
 | 25    | 13 November, Wed |                                    | [PDF]()    |                            |                           |
-| 26    | 18 November, Mon |                                    | [PDF]()    |                            |                           |
+| 26    | 18 November, Mon |     (Martin Weyssow, University of Montreal)                               | [PDF]()    |                            |                           |
 | 27    | 20 November, Wed |                                    | [PDF]()    |                            |                           |
 | 28    | 25 November, Mon |                                    | [PDF]()    |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  | [PDF]()    |                            |                           |
