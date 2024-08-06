@@ -20,22 +20,22 @@ Please check the complete outline in the syllabus. The table below progressively
 
 | Class | Date         | Topic                               | Content | Notes (if any) | Recommended Reading |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- | -------------------------- | 
-| 0     | 19 August, Mon |                                       | [PDF]()    |                            |                           |
+| 0     | 19 August, Mon |   Course Intro                                    | [PDF]()    |                            |                           |
 | 1     | 21 August, Wed |                                       | [PDF]()    |                            |                           |
-| 2     | 26 August, Mon |                                       | [PDF]()    |                            |                           |
+| 2     | 26 August, Mon |   *"GAI4SE, what's going on in industry?"*                                      | [PDF]()    |                            |                           |
 | 3     | 28 August, Wed |                                       | [PDF]()    |                            |                           |
 | 4     | 2 September, Mon |       Labor Day (University closed; No classes)                             | [PDF]()    |                            |                           |
-| 5     | 4 September, Wed |                                    | [PDF]()    |                            |                           |
+| 5     | 4 September, Wed |      Take-home Assignment #1                              | [PDF]()    |                            |                           |
 | 6     | 9 September, Mon |                                    | [PDF]()    |                            |                           |
 | 7     | 11 September, Wed |                                   | [PDF]()    |                            |                           |
-| 8     | 16 September, Mon |                                   | [PDF]()    |                            |                           |
+| 8     | 16 September, Mon |    *Accuracy and Quality Issues of AI-generated Programming Solutions* (Samia Kabir, Purdue University)                               | [PDF]()    |                            |                           |
 | 9     | 18 September, Wed |                                   | [PDF]()    |                            |                           |
-| 10    | 23 September, Mon |                                   | [PDF]()    |                            |                           |
-| 11    | 25 September, Wed |                                   | [PDF]()    |                            |                           |
-| 12    | 30 September, Mon |                                   | [PDF]()    |                            |                           |
-| 13    | 2 October, Wed  |                                     | [PDF]()    |                            |                           |
-| 14    | 7 October, Mon  |                                     | [PDF]()    |                            |                           |
-| 15    | 9 October, Wed  |                                     | [PDF]()    |                            |                           |
+| 10    | 23 September, Mon |    Recent Trends + Group Project Proposal Presentation - 1                               | [PDF]()    |                            |                           |
+| 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
+| 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                | [PDF]()    |                            |                           |
+| 13    | 2 October, Wed  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
+| 14    | 7 October, Mon  |    *Software Defect Prediction* ((N.C. Shrikanth)                                 | [PDF]()    |                            |                           |
+| 15    | 9 October, Wed  |     *GAI4SE in Microsoft (Deep Mehta, Microsoft)*                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No classes)                              | [PDF]()    |                            |                           |
 | 17    | 16 October, Wed |                                     | [PDF]()    |                            |                           |
 | 18    | 21 October, Mon |                                     | [PDF]()    |                            |                           |
