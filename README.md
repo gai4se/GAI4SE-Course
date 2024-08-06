@@ -21,7 +21,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | Class | Date         | Topic                               | Content | Notes (if any) | Recommended Reading |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- | -------------------------- | 
 | 0     | 19 August, Mon |   Course Intro                                    | [PDF]()    |                            |                           |
-| 1     | 21 August, Wed |                                       | [PDF]()    |                            |                           |
+| 1     | 21 August, Wed |     Pattern Mining in Software Repositories                                  | [PDF]()    |                            |                           |
 | 2     | 26 August, Mon |   *"GAI4SE, what's going on in industry?" #1*  (Pankaj, Firasat, and Prabhanjan)                                    | [PDF]()    |                            |                           |
 | 3     | 28 August, Wed |    *"GAI4SE, what's going on in industry?" #2* (Thanh Le-Cong, Amazon)                                    | [PDF]()    |                            |                           |
 | 4     | 2 September, Mon |       Labor Day (University closed; No classes)                             | [PDF]()    |                            |                           |
