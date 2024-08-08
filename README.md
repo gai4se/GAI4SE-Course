@@ -29,8 +29,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
 | 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
 | 8     | 16 September, Mon |    *Accuracy and Quality Issues of AI-generated Programming Solutions* (Samia Kabir, Purdue University)                               | [PDF]()    |                            |                           |
-| 9     | 18 September, Wed |    Large Language Model of Code - Code Embedding                             | [PDF]()    |                            |                           |
-| 10    | 23 September, Mon |    Recent Trends + Group Project Proposal Presentation - 1                               | [PDF]()    |                            |                           |
+| 9     | 18 September, Wed |    Recent Trends + Group Project Proposal Presentation - 1                             | [PDF]()    |                            |                           |
+| 10    | 23 September, Mon |    (Shrikanth N.C.)                               | [PDF]()    |                            |                           |
 | 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
 | 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                | [PDF]()    |                            |                           |
 | 13    | 2 October, Wed  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
