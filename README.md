@@ -13,7 +13,7 @@
 - [Communication: Discord](https://discord.gg/G37RrFwUnt)
 - [Content](https://github.com/gai4se/GAI4SE-Course)
 - Forms
-  - [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)
+  - [AI Concepts in SE](https://docs.google.com/forms/d/e/1FAIpQLSdlEJrl2WgziBLUyMnyLZXcnnxc45MavxCAc9xzEFZkoMhnhQ/viewform?usp=sf_link)
   - [Questions for Guest Speakers](https://docs.google.com/forms/d/e/1FAIpQLSeDcNpNw2s_Frklbz403N_mSS4aoWcYwrZS3cySOQZW_BHnHQ/viewform?usp=sf_link)
   - [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdIaxG0d6wI7NZZ4SN_ZuS4tErOi0xgnqzTrnkASkm73zyZcw/viewform?usp=sf_link)
   - [Peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScxJ5xgpFGJWJxoQRuN4lU2yHNy5aYD9dnZO0ON_9y0EUbVZg/viewform?usp=sf_link)
@@ -29,6 +29,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 1     | 21 August, Wed |     Basics of AI4SE                                  | [PDF]()    |                            |                           |
 | 2     | 26 August, Mon |   *"GAI4SE, what's going on in industry?" #1*  (Pankaj, Firasat, and Prabhanjan)                                    | [PDF]()    |                            |                           |
 | 3     | 28 August, Wed |    *"GAI4SE, what's going on in industry?" #2* (Thanh Le-Cong, Amazon)                                    | [PDF]()    |                            |                           |
+| **Deadline**     | 30 August, Wed |    [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)                                    |     |                            |                           |
 | 4     | 2 September, Mon |       Labor Day (University closed; No classes)                             | [PDF]()    |                            |                           |
 | 5     | 4 September, Wed |      Take-home Assignment #1                              | [PDF]()    |                            |                           |
 | 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
@@ -42,7 +43,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 14    | 7 October, Mon  |    *Software Defect Prediction* ((N.C. Shrikanth)                                 | [PDF]()    |                            |                           |
 | 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)*                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No classes)                              | [PDF]()    |                            |                           |
-| 17    | 16 October, Wed |    Mid-term Exam (NO ONE SHOULD MISS IT!!!)                                 | [PDF]()    |                            |                           |
+| 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
 | 18    | 21 October, Mon |                                     | [PDF]()    |                            |                           |
 | 19    | 23 October, Wed |                                     | [PDF]()    |                            |                           |
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
