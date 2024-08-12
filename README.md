@@ -29,7 +29,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 1     | 21 August, Wed |     Basics of AI4SE                                  | [PDF]()    |                            |                           |
 | 2     | 26 August, Mon |   *"GAI4SE, what's going on in industry?" #1*  (Pankaj, Firasat, and Prabhanjan)                                    | [PDF]()    |                            |                           |
 | 3     | 28 August, Wed |    *"GAI4SE, what's going on in industry?" #2* (Thanh Le-Cong, Amazon)                                    | [PDF]()    |                            |                           |
-| **Deadline**     | 30 August, Wed |    [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)                                    |     |                            |                           |
+| **Deadline**     | 30 August, Fri |    [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)                                    |     |                            |                           |
 | 4     | 2 September, Mon |       Labor Day (University closed; No classes)                             | [PDF]()    |                            |                           |
 | 5     | 4 September, Wed |      Take-home Assignment #1                              | [PDF]()    |                            |                           |
 | 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
