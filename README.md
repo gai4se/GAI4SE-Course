@@ -17,6 +17,7 @@
   - [Questions for Guest Speakers](https://docs.google.com/forms/d/e/1FAIpQLSeDcNpNw2s_Frklbz403N_mSS4aoWcYwrZS3cySOQZW_BHnHQ/viewform?usp=sf_link)
   - [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdIaxG0d6wI7NZZ4SN_ZuS4tErOi0xgnqzTrnkASkm73zyZcw/viewform?usp=sf_link)
   - [Peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScxJ5xgpFGJWJxoQRuN4lU2yHNy5aYD9dnZO0ON_9y0EUbVZg/viewform?usp=sf_link)
+  - [Group Project Topic](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)
 
 ## Course Outline (*Tentative, may be updated based on students' feedback*)
 
@@ -36,6 +37,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
 | 8     | 16 September, Mon |    *Accuracy and Quality Issues of AI-generated Programming Solutions* (Samia Kabir, Purdue University)                               | [PDF]()    |                            |                           |
 | 9     | 18 September, Wed |    Recent Trends + Group Project Proposal Presentation - 1                             | [PDF]()    |                            |                           |
+| **Deadline**     | 20 September, Fri |    [Finalize Group Project Topic]()                                    |     |                            |                           |
 | 10    | 23 September, Mon |    (Shrikanth N.C.)                               | [PDF]()    |                            |                           |
 | 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
 | 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                | [PDF]()    |                            |                           |
