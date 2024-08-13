@@ -29,10 +29,10 @@ Please check the complete outline in the syllabus. The table below progressively
 | 0     | 19 August, Mon |   Course Intro                                    | [PDF]()    |                            |                           |
 | 1     | 21 August, Wed |     Basics of AI4SE                                  | [PDF]()    |                            |                           |
 | 2     | 26 August, Mon |   *"GAI4SE, what's going on in industry?" #1*  (Pankaj, Firasat, and Prabhanjan)                                    | [PDF]()    |                            |                           |
-| 3     | 28 August, Wed |    *"GAI4SE, what's going on in industry?" #2* (Thanh Le-Cong, Amazon)                                    | [PDF]()    |                            |                           |
+| 3     | 28 August, Wed |    Take-home Assignment #1  (No class)                                  | [PDF]()    |                            |                           |
 | **Deadline**     | 30 August, Fri |    [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)                                    |     |                            |                           |
 | 4     | 2 September, Mon |       Labor Day (University closed; No classes)                             | [PDF]()    |                            |                           |
-| 5     | 4 September, Wed |      Take-home Assignment #1                              | [PDF]()    |                            |                           |
+| 5     | 4 September, Wed |      Take-home Assignment #2  (No class)                            | [PDF]()    |                            |                           |
 | 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
 | 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
 | 8     | 16 September, Mon |    *Accuracy and Quality Issues of AI-generated Programming Solutions* (Samia Kabir, Purdue University)                               | [PDF]()    |                            |                           |
@@ -43,8 +43,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
 | 13    | 2 October, Wed  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
 | 14    | 7 October, Mon  |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
-| 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)*                                | [PDF]()    |                            |                           |
-| 16    | 14 October, Mon |       Fall Break (No classes)                              | [PDF]()    |                            |                           |
+| 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)                                | [PDF]()    |                            |                           |
+| 16    | 14 October, Mon |       Fall Break (No class)                              | [PDF]()    |                            |                           |
 | 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
 | 18    | 21 October, Mon |                                     | [PDF]()    |                            |                           |
 | 19    | 23 October, Wed |                                     | [PDF]()    |                            |                           |
