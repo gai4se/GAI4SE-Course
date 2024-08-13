@@ -37,7 +37,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
 | 8     | 16 September, Mon |    *Accuracy and Quality Issues of AI-generated Programming Solutions* (Samia Kabir, Purdue University)                               | [PDF]()    |                            |                           |
 | 9     | 18 September, Wed |    Recent Trends + Group Project Proposal Presentation - 1                             | [PDF]()    |                            |                           |
-| **Deadline**     | 20 September, Fri |    [Finalize Group Project Topic]()                                    |     |                            |                           |
+| **Deadline**     | 20 September, Fri |    [Finalize Group Project Topic](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)                                    |     |                            |                           |
 | 10    | 23 September, Mon |    (Shrikanth N.C.)                               | [PDF]()    |                            |                           |
 | 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
 | 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                | [PDF]()    |                            |                           |
