@@ -36,13 +36,13 @@ Please check the complete outline in the syllabus. The table below progressively
 | 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
 | 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
 | 8     | 16 September, Mon |    *Accuracy and Quality Issues of AI-generated Programming Solutions* (Samia Kabir, Purdue University)                               | [PDF]()    |                            |                           |
-| 9     | 18 September, Wed |    Recent Trends + Group Project Proposal Presentation - 1                             | [PDF]()    |                            |                           |
+| 9     | 18 September, Wed |        (Kundi Yao, University of Waterloo)                         | [PDF]()    |                            |                           |
 | **Deadline**     | 20 September, Fri |    [Finalize Group Project Topic](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)                                    |     |                            |                           |
-| 10    | 23 September, Mon |    (Shrikanth N.C.)                               | [PDF]()    |                            |                           |
-| 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
-| 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                | [PDF]()    |                            |                           |
+| 10    | 23 September, Mon |    *Software Defect Prediction* ((N.C. Shrikanth)                               | [PDF]()    |                            |                           |
+| 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 1                                | [PDF]()    |                            |                           |
+| 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
 | 13    | 2 October, Wed  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
-| 14    | 7 October, Mon  |    *Software Defect Prediction* ((N.C. Shrikanth)                                 | [PDF]()    |                            |                           |
+| 14    | 7 October, Mon  |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
 | 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)*                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No classes)                              | [PDF]()    |                            |                           |
 | 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
