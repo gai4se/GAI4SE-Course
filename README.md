@@ -19,15 +19,15 @@
   - [Peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScxJ5xgpFGJWJxoQRuN4lU2yHNy5aYD9dnZO0ON_9y0EUbVZg/viewform?usp=sf_link)
   - [Group Project Topic](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)
 
-## Course Outline (*Tentative, may be updated based on students' feedback*)
+## Course Outline (*Tentative, may be updated based on students' feedback and guest instructors' availability*)
 
 Please check the complete outline in the syllabus. The table below progressively provides a summary of the topics that are planned to be covered recently.
 
 
 | Class | Date         | Topic                               | Content | Notes (if any) | Recommended Reading |
 | ----- | ------------ | ----------------------------------- | ----- | -------------------------- | -------------------------- | 
-| 0     | 19 August, Mon |   Course Intro                                    | [PDF]()    |                            |                           |
-| 1     | 21 August, Wed |     Basics of AI4SE                                  | [PDF]()    |                            |                           |
+| 0     | 19 August, Mon |   Course Intro                                    | [PDF](https://docs.google.com/presentation/d/1x3UqajDWgfBuHmnxdY7Azw9WuZowuGYXvD7nreoZpMw/edit?usp=sharing)    |                            |                           |
+| 1     | 21 August, Wed |     Basics of AI4SE                                  | [PDF](https://docs.google.com/presentation/d/1qpicT_uBC3_cwlT69oEELaK49JnXzf0HwPAJvhkdXVc/edit?usp=sharing)    |                            |                           |
 | 2     | 26 August, Mon |   *"GAI4SE, what's going on in industry?" #1*  (Pankaj, Firasat, and Prabhanjan)                                    | [PDF]()    |                            |                           |
 | 3     | 28 August, Wed |    Take-home Assignment #1  (No class)                                  | [PDF]()    |                            |                           |
 | **Deadline**     | 30 August, Fri |    [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)                                    |     |                            |                           |
@@ -50,8 +50,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | 19    | 23 October, Wed |                                     | [PDF]()    |                            |                           |
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
 | 21    | 30 October, Wed |                                     | [PDF]()    |                            |                           |
-| 22    | 4 November, Mon |                                     | [PDF]()    |                            |                           |
-| 23    | 6 November, Wed |                                     | [PDF]()    |                            |                           |
+| 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             | [PDF]()    |                            |                           |
+| 23    | 6 November, Wed |        (Thanh Le-Cong, University of Melbourne)                             | [PDF]()    |                            |                           |
 | 24    | 11 November, Mon |                                    | [PDF]()    |                            |                           |
 | 25    | 13 November, Wed |  (Martin Weyssow, University of Montreal)                                  | [PDF]()    |                            |                           |
 | 26    | 18 November, Mon |   Project Solution Presentation - 1                                 | [PDF]()    |                            |                           |
