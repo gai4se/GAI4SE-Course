@@ -13,6 +13,7 @@
 - [Communication: Discord](https://discord.gg/G37RrFwUnt)
 - [Content](https://github.com/gai4se/GAI4SE-Course)
 - Forms
+  - [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)
   - [AI Concepts in SE](https://docs.google.com/forms/d/e/1FAIpQLSdlEJrl2WgziBLUyMnyLZXcnnxc45MavxCAc9xzEFZkoMhnhQ/viewform?usp=sf_link)
   - [Questions for Guest Speakers](https://docs.google.com/forms/d/e/1FAIpQLSeDcNpNw2s_Frklbz403N_mSS4aoWcYwrZS3cySOQZW_BHnHQ/viewform?usp=sf_link)
   - [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdIaxG0d6wI7NZZ4SN_ZuS4tErOi0xgnqzTrnkASkm73zyZcw/viewform?usp=sf_link)
