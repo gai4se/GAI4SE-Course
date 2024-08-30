@@ -36,7 +36,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 5     | 4 September, Wed |      Take-home Assignment #2  (No class)                            | [PDF]()    |                            |                           |
 | 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
 | 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
-| 8     | 16 September, Mon |    *Accuracy and Quality Issues of AI-generated Programming Solutions* (Samia Kabir, Purdue University)                               | [PDF]()    |                            |                           |
+| 8     | 16 September, Mon |    Code Embedding                               | [PDF]()    |                            |                           |
 | 9     | 18 September, Wed |        (Kundi Yao, University of Waterloo)                         | [PDF]()    |                            |                           |
 | **Deadline**     | 20 September, Fri |    [Finalize Group Project Topic](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)                                    |     |                            |                           |
 | 10    | 23 September, Mon |    *Software Defect Prediction* ((N.C. Shrikanth)                               | [PDF]()    |                            |                           |
