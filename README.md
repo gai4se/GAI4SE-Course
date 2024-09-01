@@ -34,10 +34,9 @@ Please check the complete outline in the syllabus. The table below progressively
 | **Deadline**     | 30 August, Fri |    [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfmnjiks_q-yI4lb_kxWo43x3mAmoa7U_3a6D_1n3W-p9RBew/viewform?usp=sf_link)                                    |     |                            |                           |
 | 4     | 2 September, Mon |       Labor Day (University closed; No classes)                             | [PDF]()    |                            |                           |
 | 5     | 4 September, Wed |      Take-home Assignment #2  (No class)                            | [PDF]()    |                            |                           |
-| **Deadline**     | 8 September, Sun |    **AI Concept Video Submission via Email**                                    |     |                            |                           |
+| **Deadline**     | 8 September, Sun |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
 | 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
 | **Deadline**     | 10 September, Tue |    **Take-home Assignment #1 Submission via Email**                                    |     |                            |                           |
-
 | 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
 | 8     | 16 September, Mon |    Code Embedding                               | [PDF]()    |                            |                           |
 | 9     | 18 September, Wed |        (Kundi Yao, University of Waterloo)                         | [PDF]()    |                            |                           |
