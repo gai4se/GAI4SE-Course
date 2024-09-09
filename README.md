@@ -35,13 +35,13 @@ Please check the complete outline in the syllabus. The table below progressively
 | 4     | 2 September, Mon |       Labor Day (University closed; No classes)                             | [PDF]()    |                            |                           |
 | 5     | 4 September, Wed |      Take-home Assignment #2  (No class)                            | [PDF]()    |                            |                           |
 | **Deadline**     | 8 September, Sun |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
-| 6     | 9 September, Mon |   Basics of GAI - 1 (Flipped classroom)                              | [PDF]()    |                            |                           |
+| 6     | 9 September, Mon |     Basics of Generative AI                            | [PDF](https://docs.google.com/presentation/d/1VZdSnS9KMS-5bj67dUH3UN4uGhlHBi0rvtRNLDVYblk/edit?usp=sharing)    |                            |                           |
 | **Deadline**     | 10 September, Tue |    **Take-home Assignment #1 Submission via Email**                                    |     |                            |                           |
-| 7     | 11 September, Wed |     Basics of GAI - 2 (Flipped classroom)                             | [PDF]()    |                            |                           |
-| 8     | 16 September, Mon |    Code Embedding                               | [PDF]()    |                            |                           |
+| 7     | 11 September, Wed |     Code Embedding                             | [PDF]()    |                            |                           |
+| 8     | 16 September, Mon |    Basics of GAI - 1 (Flipped classroom)                               | [PDF]()    |                            |                           |
 | 9     | 18 September, Wed |        (Kundi Yao, University of Waterloo)                         | [PDF]()    |                            |                           |
 | **Deadline**     | 20 September, Fri |    [Finalize Group Project Topic](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)                                    |     |                            |                           |
-| 10    | 23 September, Mon |    *Software Defect Prediction* ((N.C. Shrikanth)                               | [PDF]()    |                            |                           |
+| 10    | 23 September, Mon |    Basics of GAI - 2 (Flipped classroom)                               | [PDF]()    |                            |                           |
 | 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 1                                | [PDF]()    |                            |                           |
 | 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
 | 13    | 2 October, Wed  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
