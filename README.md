@@ -37,7 +37,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | **Deadline**     | 8 September, Sun |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
 | 6     | 9 September, Mon |     Basics of Generative AI                            | [PDF](https://docs.google.com/presentation/d/1VZdSnS9KMS-5bj67dUH3UN4uGhlHBi0rvtRNLDVYblk/edit?usp=sharing)    |                            |                           |
 | **Deadline**     | 10 September, Tue |    **Take-home Assignment #1 Submission via Email**                                    |     |                            |                           |
-| 7     | 11 September, Wed |     Code Embedding                             | [PDF]()    |                            |                           |
+| 7     | 11 September, Wed |     Code Embedding                             | [PDF](https://docs.google.com/presentation/d/1FyLy-uBMxSXilfrqIke_1VKif2y4K-qNwWHC9bwdR8s/edit?usp=sharing)    |                            |                           |
 | 8     | 16 September, Mon |    Basics of GAI - 1 (Flipped classroom)                               | [PDF]()    |                            |                           |
 | 9     | 18 September, Wed |        (Kundi Yao, University of Waterloo)                         | [PDF]()    |                            |                           |
 | **Deadline**     | 20 September, Fri |    [**Finalize Group Project Topic**](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)                                    |     |                            |                           |
