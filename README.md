@@ -45,8 +45,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 1                                | [PDF]()    |                            |                           |
 | **Deadline**     | 27 September, Fri |    **Take-home Assignment #2 Submission via Email**                                    |     |                            |                           |
 | 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
-| 13    | 2 October, Wed  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
-| 14    | 7 October, Mon  |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
+| 13    | 2 October, Wed  |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
+| 14    | 7 October, Mon  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
 | 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No class)                              | [PDF]()    |                            |                           |
 | 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
