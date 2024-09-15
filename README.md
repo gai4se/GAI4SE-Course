@@ -55,7 +55,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
 | 21    | 30 October, Wed |                                     | [PDF]()    |                            |                           |
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             | [PDF]()    |                            |                           |
-| 23    | 6 November, Wed |        (Thanh Le-Cong, University of Melbourne)                             | [PDF]()    |                            |                           |
+| 23    | 6 November, Wed |    Code Generation with LLMs: How Reliable Are They? (Thanh Le-Cong, University of Melbourne)                             | [PDF]()    |                            |                           |
 | 24    | 11 November, Mon |                                    | [PDF]()    |                            |                           |
 | 25    | 13 November, Wed |  (Martin Weyssow, University of Montreal)                                  | [PDF]()    |                            |                           |
 | 26    | 18 November, Mon |   Project Solution Presentation - 1                                 | [PDF]()    |                            |                           |
