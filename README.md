@@ -42,20 +42,20 @@ Please check the complete outline in the syllabus. The table below progressively
 | 9     | 18 September, Wed |     Improving analytical capabilities and storage efficiencies of modern log management solutions (Kundi Yao, University of Waterloo)                         | [PDF](https://drive.google.com/file/d/1DS-v1CW98_Z5J5KVcGsyYuUk2h7rYqBZ/view?usp=sharing)    |                            |                           |
 | **Deadline**     | 20 September, Fri |    [**Finalize Group Project Topic**](https://docs.google.com/forms/d/e/1FAIpQLSe7RtdrAd8TG4Ajqo0U9iYbvj5BWch9RmQMrH7IjM6y1wCRGg/viewform?usp=sf_link)                                    |     |                            |                           |
 | 10    | 23 September, Mon |    Basics of GAI - 2 (Flipped classroom)                               |     |                            |                           |
-| 11    | 25 September, Wed |   Recent Trends + Group Project Proposal Presentation - 1                                | [PDF]()    |                            |                           |
+| 11    | 25 September, Wed |   Code Generation with LLMs: How Reliable Are They? (Thanh Le-Cong, University of Melbourne)                                | [PDF]()    |                            |                           |
 | **Deadline**     | 27 September, Fri |    **Take-home Assignment #2 Submission via Email**                                    |     |                            |                           |
-| 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 2                                | [PDF]()    |                            |                           |
-| 13    | 2 October, Wed  |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
+| 12    | 30 September, Mon |   Recent Trends + Group Project Proposal Presentation - 1                                | [PDF]()    |                            |                           |
+| 13    | 2 October, Wed  |   Recent Trends + Group Project Proposal Presentation - 2                                  | [PDF]()    |                            |                           |
 | 14    | 7 October, Mon  |   *Learning for Code / Code AI* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF]()    |                            |                           |
 | 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No class)                              | [PDF]()    |                            |                           |
 | 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
-| 18    | 21 October, Mon |                                     | [PDF]()    |                            |                           |
+| 18    | 21 October, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
 | 19    | 23 October, Wed |                                     | [PDF]()    |                            |                           |
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
 | 21    | 30 October, Wed |                                     | [PDF]()    |                            |                           |
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             | [PDF]()    |                            |                           |
-| 23    | 6 November, Wed |    Code Generation with LLMs: How Reliable Are They? (Thanh Le-Cong, University of Melbourne)                             | [PDF]()    |                            |                           |
+| 23    | 6 November, Wed |                                 | [PDF]()    |                            |                           |
 | 24    | 11 November, Mon |                                    | [PDF]()    |                            |                           |
 | 25    | 13 November, Wed |  (Martin Weyssow, University of Montreal)                                  | [PDF]()    |                            |                           |
 | 26    | 18 November, Mon |   Project Solution Presentation - 1                                 | [PDF]()    |                            |                           |
