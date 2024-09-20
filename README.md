@@ -51,7 +51,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 16    | 14 October, Mon |       Fall Break (No class)                              | [PDF]()    |                            |                           |
 | 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
 | 18    | 21 October, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
-| 19    | 23 October, Wed |                                     | [PDF]()    |                            |                           |
+| 19    | 23 October, Wed |    Code Tokenization (with exercise)                                 | [PDF]()    |                            |                           |
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
 | 21    | 30 October, Wed |                                     | [PDF]()    |                            |                           |
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             | [PDF]()    |                            |                           |
