@@ -62,7 +62,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 27    | 20 November, Wed |   Project Solution Presentation - 2                                 | [PDF]()    |                            |                           |
 | 28    | 25 November, Mon |   Project Solution Presentation - 3                                 | [PDF]()    |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  | [PDF]()    |                            |                           |
-| 30    | 2 December, Mon |     Group Project Submission Preparation                                | [PDF]()    |                            |                           |
+| 30    | 2 December, Mon |     Group Project Submission Preparation (No class)                               | [PDF]()    |                            |                           |
 
 
 
