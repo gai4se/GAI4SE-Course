@@ -53,7 +53,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 18    | 21 October, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
 | 19    | 23 October, Wed |    Code Tokenization (with exercise)                                 | [PDF]()    |                            |                           |
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
-| 21    | 30 October, Wed |                                     | [PDF]()    |                            |                           |
+| 21    | 30 October, Wed |       (Yanfu Yan, William & Mary)                              | [PDF]()    |                            |                           |
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             | [PDF]()    |                            |                           |
 | 23    | 6 November, Wed |     Project Workday                            | [PDF]()    |                            |                           |
 | 24    | 11 November, Mon |                                    | [PDF]()    |                            |                           |
