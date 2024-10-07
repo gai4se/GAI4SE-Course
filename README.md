@@ -50,7 +50,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No class)                              | [PDF]()    |                            |                           |
 | 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
-| 18    | 21 October, Mon |   Recent Trends + Group Project Proposal Presentation - 3                                  | [PDF]()    |                            |                           |
+| 18    | 21 October, Mon |   Basics of GAI - 3 (Flipped classroom)                                  | [PDF]()    |                            |                           |
 | 19    | 23 October, Wed |    Code Tokenization (with exercise)                                 | [PDF]()    |                            |                           |
 | 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
 | 21    | 30 October, Wed |       (Yanfu Yan, William & Mary)                              | [PDF]()    |                            |                           |
