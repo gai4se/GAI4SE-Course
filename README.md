@@ -56,9 +56,9 @@ Please check the complete outline in the syllabus. The table below progressively
 | 21    | 30 October, Wed |       (Yanfu Yan, William & Mary)                              | [PDF]()    |                            |                           |
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             | [PDF]()    |                            |                           |
 | 23    | 6 November, Wed |     Project Workday                            | [PDF]()    |                            |                           |
-| 24    | 11 November, Mon |                                    | [PDF]()    |                            |                           |
-| 25    | 13 November, Wed |  (Martin Weyssow, University of Montreal)                                  | [PDF]()    |                            |                           |
-| 26    | 18 November, Mon |   Project Solution Presentation - 1                                 | [PDF]()    |                            |                           |
+| 24    | 11 November, Mon |  (Martin Weyssow, University of Montreal)                                  | [PDF]()    |                            |                           |
+| 25    | 13 November, Wed |   Project Solution Presentation - 1                                 | [PDF]()    |                            |                           |
+| 26    | 18 November, Mon |   (Dan Zheng, Google DeepMind)                                 | [PDF]()    |                            |                           |
 | 27    | 20 November, Wed |   Project Solution Presentation - 2                                 | [PDF]()    |                            |                           |
 | 28    | 25 November, Mon |   Project Solution Presentation - 3                                 | [PDF]()    |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  | [PDF]()    |                            |                           |
