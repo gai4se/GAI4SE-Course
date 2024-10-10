@@ -49,20 +49,20 @@ Please check the complete outline in the syllabus. The table below progressively
 | 14    | 7 October, Mon  |   *Semantic-aware Source Code Modeling* (Yangruibo (Robin) Ding, Columbia University)                                  | [PDF](https://drive.google.com/file/d/1y-1AUcTLlrEIBvQjsUyfhtbMH0pyAjUJ/view?usp=sharing)    |                            |                           |
 | 15    | 9 October, Wed  |     *"GAI4SE, what's going on in industry?" #2*  (Deep Mehta from Microsoft and Nitesh Murli Mishra from Barclays)                                | [PDF]()    |                            |                           |
 | 16    | 14 October, Mon |       Fall Break (No class)                              |     |                            |                           |
-| 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 | [PDF]()    |                            |                           |
-| 18    | 21 October, Mon |   Basics of GAI - 3 (Flipped classroom)                                  | [PDF]()    |                            |                           |
-| 19    | 23 October, Wed |    Code Tokenization (with exercise)                                 | [PDF]()    |                            |                           |
-| 20    | 28 October, Mon |                                     | [PDF]()    |                            |                           |
-| 21    | 30 October, Wed |       (Yanfu Yan, William & Mary)                              | [PDF]()    |                            |                           |
-| 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             | [PDF]()    |                            |                           |
-| 23    | 6 November, Wed |     Project Workday                            | [PDF]()    |                            |                           |
-| 24    | 11 November, Mon |  (Martin Weyssow, University of Montreal)                                  | [PDF]()    |                            |                           |
-| 25    | 13 November, Wed |   Project Solution Presentation - 1                                 | [PDF]()    |                            |                           |
-| 26    | 18 November, Mon |   (Dan Zheng, Google DeepMind)                                 | [PDF]()    |                            |                           |
-| 27    | 20 November, Wed |   Project Solution Presentation - 2                                 | [PDF]()    |                            |                           |
-| 28    | 25 November, Mon |   Project Solution Presentation - 3                                 | [PDF]()    |                            |                           |
-| 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  | [PDF]()    |                            |                           |
-| 30    | 2 December, Mon |     Group Project Submission Preparation (No class)                               | [PDF]()    |                            |                           |
+| 17    | 16 October, Wed |    **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                 |     |                            |                           |
+| 18    | 21 October, Mon |   Basics of GAI - 3 (Flipped classroom)                                  |     |                            |                           |
+| 19    | 23 October, Wed |    Code Tokenization (with exercise)                                 |     |                            |                           |
+| 20    | 28 October, Mon |                                     |    |                            |                           |
+| 21    | 30 October, Wed |       (Yanfu Yan, William & Mary)                              |     |                            |                           |
+| 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             |     |                            |                           |
+| 23    | 6 November, Wed |     Project Workday                            |    |                            |                           |
+| 24    | 11 November, Mon |  (Martin Weyssow, University of Montreal)                                  |    |                            |                           |
+| 25    | 13 November, Wed |   Project Solution Presentation - 1                                 |     |                            |                           |
+| 26    | 18 November, Mon |   (Dan Zheng, Google DeepMind)                                 |    |                            |                           |
+| 27    | 20 November, Wed |   Project Solution Presentation - 2                                 |     |                            |                           |
+| 28    | 25 November, Mon |   Project Solution Presentation - 3                                 |     |                            |                           |
+| 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  |     |                            |                           |
+| 30    | 2 December, Mon |     Group Project Submission Preparation (No class)                               |    |                            |                           |
 
 
 
