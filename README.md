@@ -53,11 +53,11 @@ Please check the complete outline in the syllabus. The table below progressively
 | 18    | 21 October, Mon |   Basics of GAI - 3 (Flipped classroom)                                  |     |                            |                           |
 | 19    | 23 October, Wed |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
 | 20    | 28 October, Mon |    Project Workday + Consultation 1                               |    |                            |                           |
-| 21    | 30 October, Wed |       (Yanfu Yan, William & Mary)                              |     |                            |                           |
+| 21    | 30 October, Wed |     Project Workday + Consultation 2                                |     |                            |                           |
 | **Deadline**     | 1 November, Fri |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             |     |                            |                           |
-| 23    | 6 November, Wed |     Project Workday + Consultation 2                          |    |                            |                           |
-| 24    | 11 November, Mon |  (Martin Weyssow, University of Montreal)                                  |    |                            |                           |
+| 23    | 6 November, Wed |       Assignment Discussion                       |    |                            |                           |
+| 24    | 11 November, Mon |  (Yanfu Yan, William & Mary)                                  |    |                            |                           |
 | 25    | 13 November, Wed |   Project Solution Presentation - 1                                 |     |                            |                           |
 | 26    | 18 November, Mon |   (Dan Zheng, Google DeepMind)                                 |    |                            |                           |
 | 27    | 20 November, Wed |   Project Solution Presentation - 2                                 |     |                            |                           |
