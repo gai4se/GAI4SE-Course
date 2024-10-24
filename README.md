@@ -59,7 +59,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 23    | 6 November, Wed |       Assignment Discussion                       |    |                            |                           |
 | 24    | 11 November, Mon |  (Yanfu Yan, William & Mary)                                  |    |                            |                           |
 | 25    | 13 November, Wed |   Project Solution Presentation - 1                                 |     |                            |                           |
-| 26    | 18 November, Mon |   (Dan Zheng, Google DeepMind)                                 |    |                            |                           |
+| 26    | 18 November, Mon |   Large Sequence Models of Software Development Activities (Dan Zheng, Google DeepMind)                                 |    |                            |                           |
 | 27    | 20 November, Wed |   Project Solution Presentation - 2                                 |     |                            |                           |
 | 28    | 25 November, Mon |   Project Solution Presentation - 3                                 |     |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  |     |                            |                           |
