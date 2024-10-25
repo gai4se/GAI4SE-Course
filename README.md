@@ -58,12 +58,12 @@ Please check the complete outline in the syllabus. The table below progressively
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             |     |                            |                           |
 | 23    | 6 November, Wed |       Assignment Discussion                       |    |                            |                           |
 | 24    | 11 November, Mon |  (Yanfu Yan, William & Mary)                                  |    |                            |                           |
-| 25    | 13 November, Wed |   Project Solution Presentation - 1                                 |     |                            |                           |
+| 25    | 13 November, Wed |   (Michael Schader)                                 |     |                            |                           |
 | 26    | 18 November, Mon |   Large Sequence Models of Software Development Activities (Dan Zheng, Google DeepMind)                                 |    |                            |                           |
-| 27    | 20 November, Wed |   Project Solution Presentation - 2                                 |     |                            |                           |
-| 28    | 25 November, Mon |   Project Solution Presentation - 3                                 |     |                            |                           |
+| 27    | 20 November, Wed |   Project Solution Presentation - 1                                 |     |                            |                           |
+| 28    | 25 November, Mon |   Project Solution Presentation - 2                                 |     |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  |     |                            |                           |
-| 30    | 2 December, Mon |     Group Project Submission Preparation (No class)                               |    |                            |                           |
+| 30    | 2 December, Mon |     Project Solution Presentation - 3                               |    |                            |                           |
 
 
 
