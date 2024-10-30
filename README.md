@@ -54,7 +54,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 19    | 23 October, Wed |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
 | 20    | 28 October, Mon |    Project Workday + Consultation 1                               |    |                            |                           |
 | 21    | 30 October, Wed |     Project Workday + Consultation 2                                |     |                            |                           |
-| **Deadline**     | 1 November, Fri |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
+| **Deadline**     | 6 November, Wed |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
 | 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             |     |                            |                           |
 | 23    | 6 November, Wed |       Assignment Discussion                       |    |                            |                           |
 | 24    | 11 November, Mon |  (Yanfu Yan, William & Mary)                                  |    |                            |                           |
