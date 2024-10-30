@@ -54,7 +54,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 19    | 23 October, Wed |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
 | 20    | 28 October, Mon |    Project Workday + Consultation 1                               |    |                            |                           |
 | 21    | 30 October, Wed |     Project Workday + Consultation 2                                |     |                            |                           |
-| 22    | 4 November, Mon |        (Nikitha Rao, Carnegie Mellon University)                             |     |                            |                           |
+| 22    | 4 November, Mon |     Testing, Testing, 1-2-3: Test generation with LLMs   (Nikitha Rao, Carnegie Mellon University)                             |     |                            |                           |
 | 23    | 6 November, Wed |       Assignment Discussion                       |    |                            |                           |
 | **Deadline**     | 6 November, Wed |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
 | 24    | 11 November, Mon |  (Yanfu Yan, William & Mary)                                  |    |                            |                           |
