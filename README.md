@@ -57,7 +57,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 22    | 4 November, Mon |     Testing, Testing, 1-2-3: Test generation with LLMs   (Nikitha Rao, Carnegie Mellon University)                             |  [PDF](https://drive.google.com/file/d/16ltwQhvjvKwzxmn_fvJuR5hRuynz4eG7/view?usp=sharing)   |                            |                           |
 | 23    | 6 November, Wed |       In-class Activity and Discussion                       |    |                            |                           |
 | **Deadline**     | 6 November, Wed |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
-| 24    | 11 November, Mon |  (Yanfu Yan, William & Mary)                                  |    |                            |                           |
+| 24    | 11 November, Mon | Software Maintenance and Evolution in the Era of Large Pre-trained Models (Yanfu Yan, William & Mary)                                  |    |                            |                           |
 | 25    | 13 November, Wed |   (Michael Schader)                                 |     |                            |                           |
 | 26    | 18 November, Mon |   Large Sequence Models of Software Development Activities (Dan Zheng, Google DeepMind)                                 |    |                            |                           |
 | 27    | 20 November, Wed |   Project Solution Presentation - 1                                 |     |                            |                           |
