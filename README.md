@@ -58,8 +58,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | 23    | 6 November, Wed |       In-class Activity and Discussion                       |    |                            |                           |
 | **Deadline**     | 6 November, Wed |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
 | 24    | 11 November, Mon | Software Maintenance and Evolution in the Era of Large Pre-trained Models (Yanfu Yan, William & Mary)                                  |    |                            |                           |
-| 25    | 13 November, Wed |   (Michael Schader)                                 |     |                            |                           |
-| 26    | 18 November, Mon |   Large Sequence Models of Software Development Activities (Dan Zheng, Google DeepMind)                                 |    |                            |                           |
+| 25    | 13 November, Wed |    LLMs in Research and Practice (Michael Schader)                                 |     |                            |                           |
+| 26    | 18 November, Mon |   Large Sequence Models of Software Development Activities (Dan Zheng, Google DeepMind)                                 | [Note](https://docs.google.com/document/d/1ZcSADiXMvITdD4MY8WUqX3ibSNdwVfaykEVX_1iXW0I/edit?usp=sharing)   |                            |                           |
 | 27    | 20 November, Wed |   Project Solution Presentation - 1                                 |     |                            |                           |
 | 28    | 25 November, Mon |   Project Solution Presentation - 2                                 |     |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  |     |                            |                           |
