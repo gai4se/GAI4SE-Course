@@ -64,7 +64,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 28    | 25 November, Mon |   Project Solution Presentation - 2                                 |     |                            |                           |
 | 29    | 27 November, Wed |  Thanksgiving Holiday (No classes; University closed Thursday & Friday)                                  |     |                            |                           |
 | 30    | 2 December, Mon |     Project Solution Presentation - 3                               |    |                            |                           |
-
+| **Deadline**     | 4 December, Wed |    **Group Project Artifacts Submission + Peer Review**                                    |  [Peer evaluation form](https://docs.google.com/forms/d/e/1FAIpQLScxJ5xgpFGJWJxoQRuN4lU2yHNy5aYD9dnZO0ON_9y0EUbVZg/viewform?usp=sf_link)   |                            |                           |
 
 
 ## Group Project
