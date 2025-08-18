@@ -6,18 +6,22 @@
 
 # Course: Generative AI for Software Engineering (GAI4SE) 
 
+## Basic Info
+
+- **Instructor**: [Dr. Bowen Xu](#)
+- **Schedule**: Tuesdays and Thursdays, 03:00 PM - 04:15 PM
+- **Location**: 02321 Fitts-Woolard Hall
+
 ## Resources
-- [Syllabus](#)
-- [Paper List](#)
-- [Communication: Discord](#)
-- [Content](#)
+- [Syllabus](https://docs.google.com/document/d/1A4YRg6ZUrpMMMdUqbvdmT-2O-L_vSyKN/edit?usp=sharing&ouid=100772203897969013988&rtpof=true&sd=true)
+- [Paper List](https://github.com/gai4se/LLM4SE)
+- [Communication: Discord](https://discord.gg/t3UByBsR)
 - Forms
-  - [Team Formation](#)
-  - [AI Concepts in SE](#)
-  - [Questions for Guest Speakers](#)
-  - [Feedback](#)
-  - [Peer evaluation](#)
-  - [Group Project Topic](#)
+  - [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfgFoWII62Rnkonfj6RsQdhO14pWSKbnA3mJZOa3_eZGY9hjg/viewform?usp=sharing&ouid=100772203897969013988)
+  - [AI Concepts in SE](https://docs.google.com/forms/d/e/1FAIpQLSfTuguGFfNn-zJxvgdT7dnNRg_x_trdauY6SpLli7-d5_xGtA/viewform?usp=sharing&ouid=100772203897969013988)
+  - [Feedback](https://docs.google.com/forms/d/e/1FAIpQLSf7JZJtQ9ghhWh4cD0oBMh-C1NPCqvDYb2mcFqlKAfBH4UlQw/viewform?usp=sharing&ouid=100772203897969013988)
+  - [Peer evaluation](https://docs.google.com/forms/d/e/1FAIpQLScGrwoklwr19ScOfc3468VvxMocLqpcTfI7NL7z8HOUxIkgag/viewform?usp=sharing&ouid=100772203897969013988)
+  - [Group Project Topic](https://docs.google.com/forms/d/e/1FAIpQLSeg1mYWyaEJXEG1VfGPEFEKmXHtPkXcKJMEc7emkZEoESFdwQ/viewform?usp=sharing&ouid=100772203897969013988)
 
 ## Course Outline (*Tentative, may be updated based on students' feedback and guest instructors' availability*)
 
@@ -26,8 +30,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | Class | Date         | Topic                               | Content | Notes (if any) | Recommended Reading |
 | ----- | ------------ | ----------------------------------- | ------- | --------------- | ------------------- | 
 | 0     | 19 August, Tue |   Course Intro                                    |     |                            |                           |
-| 1     | 21 August, Thu |     Basics of AI4SE                                  |     |                            |                           |
-| 2     | 26 August, Tue |   *"GAI4SE, what's going on in industry?" #1*  (Pankaj, Firasat, Prabhanjan and Ejaz)                                    |    |                            |                           |
+| 1     | 21 August, Thu |       Research Ideas in GAI4SE field                                |     |                            |                           |
+| 2     | 26 August, Tue |   Basics of AI4SE                                    |    |                            |                           |
 | 3     | 28 August, Thu |    Take-home Assignment #1  (No class)                                  |     |                            |                           |
 | **Deadline**     | 29 August, Fri |    Team Formation                                   |     |                            |                           |
 | 4     | 2 September, Tue |      Take-home Assignment #2  (No class)                            |     |                            |                           |
