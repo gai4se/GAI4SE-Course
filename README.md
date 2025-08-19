@@ -8,7 +8,7 @@
 
 ## Basic Info
 
-- **Instructor**: [Dr. Bowen Xu](#)
+- **Instructor**: [Dr. Bowen Xu](https://www.bowenxu.me/)
 - **Schedule**: Tuesdays and Thursdays, 03:00 PM - 04:15 PM
 - **Location**: 02321 Fitts-Woolard Hall
 
