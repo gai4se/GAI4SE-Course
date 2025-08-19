@@ -29,7 +29,7 @@ Please check the complete outline in the syllabus. The table below progressively
 
 | Class | Date         | Topic                               | Content | Notes (if any) | Recommended Reading |
 | ----- | ------------ | ----------------------------------- | ------- | --------------- | ------------------- | 
-| 0     | 19 August, Tue |   Course Intro                                    |     |                            |                           |
+| 0     | 19 August, Tue |   Course Intro                                    |   [Slides](https://docs.google.com/presentation/d/e/2PACX-1vThiS6bJsWS4Sig99vvVuC2ztH29v0yDmGn6SYyLecrsEX5k0nAD7HAnGej_1aLmZ6TX-mT70MeGMGY/pub?start=false&loop=false&delayms=3000)  |                            |                           |
 | 1     | 21 August, Thu |       Research Ideas in GAI4SE field                                |     |                            |                           |
 | 2     | 26 August, Tue |   Basics of AI4SE                                    |    |                            |                           |
 | 3     | 28 August, Thu |    Basics of Generative AI                                  |     |                            |                           |
