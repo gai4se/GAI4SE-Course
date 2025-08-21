@@ -30,12 +30,12 @@ Please check the complete outline in the syllabus. The table below progressively
 | Class | Date         | Topic                               | Content | Notes (if any) | Recommended Reading |
 | ----- | ------------ | ----------------------------------- | ------- | --------------- | ------------------- | 
 | 0     | 19 August, Tue |   Course Intro                                    |   [Slides](https://docs.google.com/presentation/d/e/2PACX-1vThiS6bJsWS4Sig99vvVuC2ztH29v0yDmGn6SYyLecrsEX5k0nAD7HAnGej_1aLmZ6TX-mT70MeGMGY/pub?start=false&loop=false&delayms=3000)  |                            |                           |
-| 1     | 21 August, Thu |       Research Ideas in GAI4SE field                                |     |     Find an idea from this [Paper List](https://github.com/gai4se/LLM4SE)                      |                           |
-| 2     | 26 August, Tue |       Activity: How AI Impact your programming behavior?                               |    |                            |                           |
-| 3     | 28 August, Thu |    Basics of AI4SE                                  |     |                            |                           |
-| **Deadline**     | 31 August, Sun |    Team Formation                                   |     |                            |                           |
+| 1     | 21 August, Thu |       Research Ideas in GAI4SE field                                |     |     Find an idea from this [Paper List](https://github.com/gai4se/LLM4SE)                      |      [Activity Prep](https://docs.google.com/presentation/d/e/2PACX-1vRXnjwpngtuU7Ar1nA1rqnTy6hisvtKDLRbxby_Q5sQFklBLFUfXXoYcGM_PM9s-v9eRRZPfvZk08Qd/pub?start=false&loop=false&delayms=3000)                     |
+| 2     | 26 August, Tue |       [**Activity**] How AI Impact your programming behavior?                               |    |                            |                           |
+| 3     | 28 August, Thu |    Basics of SE                                  |     |                            |                           |
+| **Deadline**     | 31 August, Sun |    **Team Formation**                                   |     |                            |                           |
 | 4     | 2 September, Tue |      Basics of Generative AI                        |     |                            |                           |
-| 5     | 4 September, Thu |     [Hands-on Programming] Fine Tune OpenAI Models                                   |     |                            |                           |
+| 5     | 4 September, Thu |     [**Hands-on Programming**] Fine Tune OpenAI Models                                   |     |                            |                           |
 | **Deadline**     | 4 September, Thu |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
 | 6     | 9 September, Tue |            Basics of GAI - 1 (Flipped classroom)                     |     |                            |                           |
 | **Deadline**     | 11 September, Thu |    **Take-home Assignment #1 Submission via Email**                                    |     |                            |                           |
