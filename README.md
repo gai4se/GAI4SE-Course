@@ -31,41 +31,43 @@ Please check the complete outline in the syllabus. The table below progressively
 | ----- | ------------ | ----------------------------------- | ------- | --------------- | ------------------- | 
 | 0     | 19 August, Tue |   Course Intro                                    |   [Slides](https://docs.google.com/presentation/d/e/2PACX-1vThiS6bJsWS4Sig99vvVuC2ztH29v0yDmGn6SYyLecrsEX5k0nAD7HAnGej_1aLmZ6TX-mT70MeGMGY/pub?start=false&loop=false&delayms=3000)  |                            |                           |
 | 1     | 21 August, Thu |       Research Ideas in GAI4SE field                                |     |                            |                           |
-| 2     | 26 August, Tue |   Basics of AI4SE                                    |    |                            |                           |
-| 3     | 28 August, Thu |    Basics of Generative AI                                  |     |                            |                           |
-| **Deadline**     | 31 August, Fri |    Team Formation                                   |     |                            |                           |
-| 4     | 2 September, Tue |          Activity: How AI Impact your programming behavior?                       |     |                            |                           |
+| 2     | 26 August, Tue |       Activity: How AI Impact your programming behavior?                               |    |                            |                           |
+| 3     | 28 August, Thu |    Basics of AI4SE                                  |     |                            |                           |
+| **Deadline**     | 31 August, Sun |    Team Formation                                   |     |                            |                           |
+| 4     | 2 September, Tue |      Basics of Generative AI                        |     |                            |                           |
+| 5     | 4 September, Thu |     [Hands-on Programming] Fine Tune OpenAI Models                                   |     |                            |                           |
 | **Deadline**     | 4 September, Thu |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
-| 5     | 9 September, Tue |            Basics of GAI - 1 (Flipped classroom)                     |     |                            |                           |
+| 6     | 9 September, Tue |            Basics of GAI - 1 (Flipped classroom)                     |     |                            |                           |
 | **Deadline**     | 11 September, Thu |    **Take-home Assignment #1 Submission via Email**                                    |     |                            |                           |
-| 6     | 11 September, Thu |     Basics of GAI - 2 (Flipped classroom)                             |     |                            |                           |
-| 7     | 16 September, Tue |     Wellness Day (No class)                               |     |                            |                           |
-| 8     | 18 September, Thu |     Code Embedding                         |     |                            |                           |
+| 7     | 11 September, Thu |     Basics of GAI - 2 (Flipped classroom)                             |     |                            |                           |
+| 8     | 16 September, Tue |     Wellness Day (No class)                               |     |                            |                           |
+| 9     | 18 September, Thu |     Code Embedding                         |     |                            |                           |
 | **Deadline**     | 19 September, Fri |    **Finalize Group Project Topic**                                   |     |                            |                           |
-| 9     | 23 September, Tue |    Research Paper Reading and Discussion - 1                               |     |                            |                           |
-| 10    | 25 September, Thu |   Research Paper Reading and Discussion - 2                               |     |                            |                           |
+| 10    | 23 September, Tue |    Research Paper Reading and Discussion - 1                               |     |                            |                           |
+| 11    | 25 September, Thu |   Research Paper Reading and Discussion - 2                               |     |                            |                           |
 | **Deadline**     | 26 September, Fri |    **Take-home Assignment #2 Submission via Email**                                    |     |                            |                           |
-| 11    | 30 September, Tue |   Recent Trends + Group Project Proposal Presentation - 1                                |     |                            |                           |
-| 12    | 2 October, Thu  |   Recent Trends + Group Project Proposal Presentation - 2                                  |     |                            |                           |
-| 13    | 7 October, Tue  |   Guest Talk                                  |     |                            |                           |
-| 14    | 9 October, Thu  |     **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                |     |                            |                           |
-| 15    | 14 October, Tue |       Fall Break (No class)                              |     |                            |                           |
-| 16    | 16 October, Thu |         TBA                            |     |                            |                           |
-| 17    | 21 October, Tue |                                     |     |                            |                           |
-| 18    | 23 October, Thu |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
-| 19    | 28 October, Tue |    Project Workday + Consultation 1                               |    |                            |                           |
-| 20    | 30 October, Thu |     Project Workday + Consultation 2                                |     |                            |                           |
-| 21    | 4 November, Tue |     Guest Talk                             |     |                            |                           |
-| 22    | 6 November, Thu |       In-class Activity and Discussion                       |    |                            |                           |
+| 12    | 30 September, Tue |   Recent Trends + Group Project Proposal Presentation - 1                                |     |                            |                           |
+| 13    | 2 October, Thu  |   Recent Trends + Group Project Proposal Presentation - 2                                  |     |                            |                           |
+| 14    | 7 October, Tue  |   Guest Talk                                  |     |                            |                           |
+| 15    | 9 October, Thu  |     **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                |     |                            |                           |
+| 16    | 14 October, Tue |       Fall Break (No class)                              |     |                            |                           |
+| 17    | 16 October, Thu |         TBA                            |     |                            |                           |
+| 18    | 21 October, Tue |                                     |     |                            |                           |
+| 19    | 23 October, Thu |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
+| 20    | 28 October, Tue |    Project Workday + Consultation 1                               |    |                            |                           |
+| 21    | 30 October, Thu |     Project Workday + Consultation 2                                |     |                            |                           |
+| 22    | 4 November, Tue |     Guest Talk                             |     |                            |                           |
+| 23    | 6 November, Thu |       In-class Activity and Discussion                       |    |                            |                           |
 | **Deadline**     | 6 November, Thu |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
-| 23    | 11 November, Tue | Guest Talk                                  |    |                            |                           |
-| 24    | 13 November, Thu |    Guest Talk                                 |     |                            |                           |
-| 25    | 18 November, Tue |   Guest Talk                                 |     |                            |                           |
-| 26    | 20 November, Thu |   Project Solution Presentation - 1                                 |     |                            |                           |
-| 27    | 25 November, Tue |   Project Solution Presentation - 2                                 |     |                            |                           |
-| 28    | 27 November, Thu |  Thanksgiving Holiday (No class; University closed Thu & Fri)                                  |     |                            |                           |
-| 29    | 2 December, Tue |     Project Solution Presentation - 3 (Last day of classes)                               |    |                            |                           |
+| 24    | 11 November, Tue | Guest Talk                                  |    |                            |                           |
+| 25    | 13 November, Thu |    Guest Talk                                 |     |                            |                           |
+| 26    | 18 November, Tue |   Guest Talk                                 |     |                            |                           |
+| 27    | 20 November, Thu |   Project Solution Presentation - 1                                 |     |                            |                           |
+| 28    | 25 November, Tue |   Project Solution Presentation - 2                                 |     |                            |                           |
+| 29    | 27 November, Thu |  Thanksgiving Holiday (No class; University closed Thu & Fri)                                  |     |                            |                           |
+| 30    | 2 December, Tue |     Project Solution Presentation - 3 (Last day of classes)                               |    |                            |                           |
 | **Deadline**     | 2 December, Tue |    **Group Project Artifacts Submission + Peer Review**                                   |     |                            |                           |
+
 
 
 ## Group Project
