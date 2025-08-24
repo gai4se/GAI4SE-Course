@@ -39,16 +39,16 @@ Please check the complete outline in the syllabus. The table below progressively
 | **Deadline**     | 4 September, Thu |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
 | 6     | 9 September, Tue |            Basics of GAI - 1 (Flipped classroom)                     |     |                            |                           |
 | **Deadline**     | 11 September, Thu |    **Take-home Assignment #1 Submission via Email**                                    |     |                            |                           |
-| 7     | 11 September, Thu |     Basics of GAI - 2 (Flipped classroom)                             |     |                            |                           |
+| 7     | 11 September, Thu |      ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants                           |     |    Guest Speaker: Xiangzhe Xu (Purdue Uni.)                        |        **Read [paper](https://arxiv.org/abs/2508.03936) before the class.**                 |
 | 8     | 16 September, Tue |     Wellness Day (No class)                               |     |                            |                           |
-| 9     | 18 September, Thu |     Code Embedding                         |     |                            |                           |
+| 9     | 18 September, Thu |     Basics of GAI - 2 (Flipped classroom)                         |     |                            |                           |
 | **Deadline**     | 19 September, Fri |    **Finalize Group Project Topic**                                   |     |                            |                           |
 | 10    | 23 September, Tue |    Research Paper Reading and Discussion - 1                               |     |                            |                           |
 | 11    | 25 September, Thu |   Research Paper Reading and Discussion - 2                               |     |                            |                           |
 | **Deadline**     | 26 September, Fri |    **Take-home Assignment #2 Submission via Email**                                    |     |                            |                           |
 | 12    | 30 September, Tue |   Recent Trends + Group Project Proposal Presentation - 1                                |     |                            |                           |
 | 13    | 2 October, Thu  |   Recent Trends + Group Project Proposal Presentation - 2                                  |     |                            |                           |
-| 14    | 7 October, Tue  |   Guest Talk                                  |     |                            |                           |
+| 14    | 7 October, Tue  |   Code Embedding                                  |     |                            |                           |
 | 15    | 9 October, Thu  |     **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                |     |                            |                           |
 | 16    | 14 October, Tue |       Fall Break (No class)                              |     |                            |                           |
 | 17    | 16 October, Thu |         TBA                            |     |                            |                           |
