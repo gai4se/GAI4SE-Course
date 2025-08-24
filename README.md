@@ -35,7 +35,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 3     | 28 August, Thu |    Basics of SE                                  |     |                            |                           |
 | **Deadline**     | 31 August, Sun |    **Team Formation**                                   |     |                            |                           |
 | 4     | 2 September, Tue |      Basics of Generative AI                        |     |                            |                           |
-| 5     | 4 September, Thu |                                        |     |                            |                           |
+| 5     | 4 September, Thu |        TBA                                |     |     Guest Speaker: Aftab Hussain (Texas A&M)                       |                           |
 | **Deadline**     | 4 September, Thu |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
 | 6     | 9 September, Tue |       [**Hands-on Programming**] Fine Tune OpenAI Models                          |     |                            |                           |
 |      | 11 September, Thu |    Basics of GAI - 1 (Flipped classroom)                                    |     |                            |                           |
