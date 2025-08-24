@@ -51,7 +51,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 14    | 7 October, Tue  |   Code Embedding                                  |     |                            |                           |
 | 15    | 9 October, Thu  |     **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                |     |                            |                           |
 | 16    | 14 October, Tue |       Fall Break (No class)                              |     |                            |                           |
-| 17    | 16 October, Thu |         TBA                            |     |                            |                           |
+| 17    | 16 October, Thu |      [Read and Discussion]   Frontier AI Safety Policies                            |     |                            |       [Resources](https://metr.org/faisc)                    |
 | 18    | 21 October, Tue |                                     |     |                            |                           |
 | 19    | 23 October, Thu |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
 | 20    | 28 October, Tue |    Project Workday + Consultation 1                               |    |                            |                           |
