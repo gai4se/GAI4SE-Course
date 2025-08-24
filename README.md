@@ -35,10 +35,10 @@ Please check the complete outline in the syllabus. The table below progressively
 | 3     | 28 August, Thu |    Basics of SE                                  |     |                            |                           |
 | **Deadline**     | 31 August, Sun |    **Team Formation**                                   |     |                            |                           |
 | 4     | 2 September, Tue |      Basics of Generative AI                        |     |                            |                           |
-| 5     | 4 September, Thu |     [**Hands-on Programming**] Fine Tune OpenAI Models                                   |     |                            |                           |
+| 5     | 4 September, Thu |                                        |     |                            |                           |
 | **Deadline**     | 4 September, Thu |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
-| 6     | 9 September, Tue |            Basics of GAI - 1 (Flipped classroom)                     |     |                            |                           |
-| **Deadline**     | 11 September, Thu |    **Take-home Assignment #1 Submission via Email**                                    |     |                            |                           |
+| 6     | 9 September, Tue |       [**Hands-on Programming**] Fine Tune OpenAI Models                          |     |                            |                           |
+|      | 11 September, Thu |    Basics of GAI - 1 (Flipped classroom)                                    |     |                            |                           |
 | 7     | 11 September, Thu |      ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants                           |     |    Guest Speaker: Xiangzhe Xu (Purdue Uni.)                        |        **Read [paper](https://arxiv.org/abs/2508.03936) before the class.**                 |
 | 8     | 16 September, Tue |     Wellness Day (No class)                               |     |                            |                           |
 | 9     | 18 September, Thu |     Basics of GAI - 2 (Flipped classroom)                         |     |                            |                           |
