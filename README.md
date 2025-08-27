@@ -37,7 +37,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | **Deadline**     | 31 August, Sun |    **Team Formation**                                   |     |                            |                           |
 | 4     | 2 September, Tue |      Basics of Generative AI                        |     |                            |                           |
 | 5     | 4 September, Thu |        TBA                                |     |     Guest Speaker: Aftab Hussain (Texas A&M)                       |                           |
-| **Deadline**     | 7 September, Sun |    **AI Concept Video Submission (Flipped Class) via Email copy Grader (wding8@ncsu.edu)**                                    |     |                            |                           |
+| **Deadline**     | 7 September, Sun |    **AI Concept Video Submission (Flipped Class) via Email copy Grader (wding8@ncsu.edu)**                                    |     |     [Examples](https://www.moveworks.com/us/en/resources/ai-terms-glossary)                       |                           |
 | 6     | 9 September, Tue |       [**Hands-on Programming**] Fine Tune OpenAI Models                          |     |                            |                           |
 |      | 11 September, Thu |    Basics of GAI - 1 (Flipped classroom)                                    |     |                            |                           |
 | 7     | 11 September, Thu |      ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants                           |     |    Guest Speaker: Xiangzhe Xu (Purdue Uni.)                        |        **Read [paper](https://arxiv.org/abs/2508.03936) before the class.**                 |
