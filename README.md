@@ -8,7 +8,8 @@
 
 ## Basic Info
 
-- **Instructor**: [Dr. Bowen Xu](https://www.bowenxu.me/)
+- **Instructor**: [Dr. Bowen Xu](https://www.bowenxu.me/) (bxu22@ncsu.edu)
+- **Grader**: Weiyuan Ding (wding8@ncsu.edu)
 - **Schedule**: Tuesdays and Thursdays, 03:00 PM - 04:15 PM
 - **Location**: 02321 Fitts-Woolard Hall
 
@@ -36,7 +37,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | **Deadline**     | 31 August, Sun |    **Team Formation**                                   |     |                            |                           |
 | 4     | 2 September, Tue |      Basics of Generative AI                        |     |                            |                           |
 | 5     | 4 September, Thu |        TBA                                |     |     Guest Speaker: Aftab Hussain (Texas A&M)                       |                           |
-| **Deadline**     | 4 September, Thu |    **AI Concept Video Submission (Flipped Class) via Email**                                    |     |                            |                           |
+| **Deadline**     | 4 September, Thu |    **AI Concept Video Submission (Flipped Class) via Email copy Grader (wding8@ncsu.edu)**                                    |     |                            |                           |
 | 6     | 9 September, Tue |       [**Hands-on Programming**] Fine Tune OpenAI Models                          |     |                            |                           |
 |      | 11 September, Thu |    Basics of GAI - 1 (Flipped classroom)                                    |     |                            |                           |
 | 7     | 11 September, Thu |      ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants                           |     |    Guest Speaker: Xiangzhe Xu (Purdue Uni.)                        |        **Read [paper](https://arxiv.org/abs/2508.03936) before the class.**                 |
