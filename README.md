@@ -36,7 +36,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 3     | 28 August, Thu |    Basics of SE                                  |  [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQcmJ0zMD9GLZyu73PmcxGiPY2YKPqeNBLqjPz6KHE3Virp3N1q8Wl9cJG3YAdRLFRQQ2P-SPa9o8uu/pub?start=false&loop=false&delayms=3000)   |                            |                           |
 | **Deadline**     | 31 August, Sun |    **Team Formation**                                   |     |                            |                           |
 | 4     | 2 September, Tue |      Basics of Generative AI                        |     |                            |                           |
-| 5     | 4 September, Thu |        TBA                                |     |     Guest Speaker: Aftab Hussain (Texas A&M)                       |                           |
+| 5     | 4 September, Thu |        Trojan Detection in Large Language Models of Code                                |     |     Guest Speaker: Aftab Hussain (Texas A&M)                       |                           |
 | **Deadline**     | 7 September, Sun |    **AI Concept Video Submission (Flipped Class) via Email copy Grader (wding8@ncsu.edu)**                                    |     |     [Examples](https://www.moveworks.com/us/en/resources/ai-terms-glossary)                       |                           |
 | 6     | 9 September, Tue |       [**Hands-on Programming**] Fine Tune OpenAI Models                          |     |                            |                           |
 |      | 11 September, Thu |    Basics of GAI - 1 (Flipped classroom)                                    |     |                            |                           |
