@@ -17,6 +17,7 @@
 - [Syllabus](https://docs.google.com/document/d/1A4YRg6ZUrpMMMdUqbvdmT-2O-L_vSyKN/edit?usp=sharing&ouid=100772203897969013988&rtpof=true&sd=true)
 - [Paper List](https://github.com/gai4se/LLM4SE)
 - [Communication: Discord](https://discord.gg/t3UByBsR)
+- [GradeScope](https://www.gradescope.com/courses/1121256)
 - Forms
   - [Team Formation](https://docs.google.com/forms/d/e/1FAIpQLSfgFoWII62Rnkonfj6RsQdhO14pWSKbnA3mJZOa3_eZGY9hjg/viewform?usp=sharing&ouid=100772203897969013988)
   - [AI Concepts in SE](https://docs.google.com/forms/d/e/1FAIpQLSfTuguGFfNn-zJxvgdT7dnNRg_x_trdauY6SpLli7-d5_xGtA/viewform?usp=sharing&ouid=100772203897969013988)
@@ -38,18 +39,18 @@ Please check the complete outline in the syllabus. The table below progressively
 | 4     | 2 September, Tue |      Basics of Generative AI                        |  [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQit9KPlJh6fGBePi9jVhIHrSOdJrQD6_UoccbwS-BCjxvdf_hY6fIYusA8RbZk9jkA8E0xxYWD38IA/pub?start=false&loop=false&delayms=3000)   |                            |                           |
 | 5     | 4 September, Thu |        Trojan Detection in Large Language Models of Code                                | [Slides](https://drive.google.com/file/d/1p7UsryMJ8llZlhwJZV5xtq2deCOSJlKr/view?usp=sharing)    |     Guest Speaker: Aftab Hussain (Texas A&M)                       |                           |
 | **Deadline**     | 7 September, Sun |    **AI Concept Video Submission (Flipped Class) via Email copy Grader (wding8@ncsu.edu)**                                    | [Instruction](https://docs.google.com/document/d/1xMDVgC1ib_HPyLihmbZ4W0G1Y_KN7-JXQl1fFPxiEkQ/edit?usp=sharing)    |     [Examples](https://www.moveworks.com/us/en/resources/ai-terms-glossary)                       |                           |
-| 6     | 9 September, Tue |       [**Hands-on Programming**] Fine Tune OpenAI Models                          |     |                            |                           |
-|      | 11 September, Thu |    Basics of GAI - 1 (Flipped classroom)                                    |     |                            |                           |
+| 6     | 9 September, Tue |      Code Embedding                           |     |                            |                           |
+|      | 11 September, Thu |     Take home assignment - Code embedding                                   |     |       Submit to Gradescope                    |                           |
 | 7     | 11 September, Thu |      ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants                           |     |    Guest Speaker: Xiangzhe Xu (Purdue Uni.)                        |        **Read [paper](https://arxiv.org/abs/2508.03936) before the class.**                 |
 | 8     | 16 September, Tue |     Wellness Day (No class)                               |     |                            |                           |
-| 9     | 18 September, Thu |     Basics of GAI - 2 (Flipped classroom)                         |     |                            |                           |
+| 9     | 18 September, Thu |     [**Hands-on Programming**] Fine Tune OpenAI Models + Basics of GAI - 1 (Flipped classroom)                         |     |                            |                           |
 | **Deadline**     | 19 September, Fri |    **Finalize Group Project Topic**                                   |     |                            |                           |
-| 10    | 23 September, Tue |    Research Paper Reading and Discussion - 1                               |     |                            |                           |
+| 10    | 23 September, Tue |    Basics of GAI - 2 (Flipped classroom)                               |     |                            |                           |
 | 11    | 25 September, Thu |   Research Paper Reading and Discussion - 2                               |     |                            |                           |
 | **Deadline**     | 26 September, Fri |    **Take-home Assignment #2 Submission via Email**                                    |     |                            |                           |
 | 12    | 30 September, Tue |   Recent Trends + Group Project Proposal Presentation - 1                                |     |                            |                           |
 | 13    | 2 October, Thu  |   Recent Trends + Group Project Proposal Presentation - 2                                  |     |                            |                           |
-| 14    | 7 October, Tue  |   Code Embedding                                  |     |                            |                           |
+| 14    | 7 October, Tue  |                                     |     |                            |                           |
 | 15    | 9 October, Thu  |     **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                |     |                            |                           |
 | 16    | 14 October, Tue |       Fall Break (No class)                              |     |                            |                           |
 | 17    | 16 October, Thu |      [Read and Discussion]   Frontier AI Safety Policies                            |     |                            |       [Resources](https://metr.org/faisc)                    |
