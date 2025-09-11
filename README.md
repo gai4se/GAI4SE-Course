@@ -8,7 +8,7 @@
 
 ## Basic Info
 
-- **Instructor**: [Dr. Bowen Xu](https://www.bowenxu.me/) (bxu22@ncsu.edu)
+- **Instructor**: [Dr. Bowen Xu](https://www.bowenxu.me/) (bxu22@ncsu.edu) Office: EBII 3228
 - **Grader**: Weiyuan Ding (wding8@ncsu.edu)
 - **Schedule**: Tuesdays and Thursdays, 03:00 PM - 04:15 PM
 - **Location**: 02321 Fitts-Woolard Hall
