@@ -43,13 +43,13 @@ Please check the complete outline in the syllabus. The table below progressively
 | 7     | 11 September, Thu |     Project workday and Take-home assignment - Code embedding (No class)                                   |  [Instruction](https://docs.google.com/document/d/1_EK54XTF0xRpTpg58seSIwrYejAcz3khq-iGT-oCsl0/edit?usp=sharing)   |       Submit to Gradescope                    |                           |
 | 8     | 16 September, Tue |     Wellness Day (No class)                               |     |                            |                           |
 | 9     | 18 September, Thu |     [**Hands-on Programming**] Fine Tune OpenAI Models                         |    |                            |     [OpenAI models](https://platform.openai.com/docs/guides/supervised-fine-tuning)                      |
-| 10    | 23 September, Tue |    Basics of GAI (Flipped classroom)                               |     |                            |                           |
-| 11     | 25 September, Thu |      ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants                           |     |    Guest Speaker: Xiangzhe Xu (Purdue Uni.)                        |        **Read [paper](https://arxiv.org/abs/2508.03936) before the class.**                 |
+| 10    | 23 September, Tue |          TBA                         |     |      Guest Speaker: Shidong Pan (New York University)                      |                           |
+| 11     | 25 September, Thu |      ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants                           |     |    Guest Speaker: Xiangzhe Xu (Purdue University)                        |        **Read [paper](https://arxiv.org/abs/2508.03936) before the class.**                 |
 | **Deadline**     | 26 September, Fri |    **Finalize Group Project Topic**                                   |     |                            |                           |
 | **Deadline**     | 26 September, Fri |    **Take-home Assignment - Code Embedding Submission via Gradescope**                                    |     |                            |                           |
 | 12    | 30 September, Tue |   Recent Trends + Group Project Proposal Presentation - 1                                |     |                            |                           |
 | 13    | 2 October, Thu  |   Recent Trends + Group Project Proposal Presentation - 2                                  |     |                            |                           |
-| 14    | 7 October, Tue  |                                     |     |                            |                           |
+| 14    | 7 October, Tue  |    Basics of GAI (Flipped classroom)                                 |     |                            |                           |
 | 15    | 9 October, Thu  |     **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                |     |                            |                           |
 | 16    | 14 October, Tue |       Fall Break (No class)                              |     |                            |                           |
 | 17    | 16 October, Thu |      [Read and Discussion]   Frontier AI Safety Policies                            |     |                            |       [Resources](https://metr.org/faisc)                    |
