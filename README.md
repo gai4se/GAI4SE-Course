@@ -73,8 +73,11 @@ Please check the complete outline in the syllabus. The table below progressively
 
 ## Group Project
 
-- [Slide Template for Discussion and Proposal Presentation](https://docs.google.com/presentation/d/14L7oQrhPpln_PINyVf4EW1z5WQhELCi-5KpkxoZyLco/edit?usp=sharing)
-- [Slide Template for Final Presentation](https://docs.google.com/presentation/d/1Vj2j2jxSxESm8QgmkFrwUZ1yG4sGNGex_miQeExcd_w/edit?usp=sharing)
+- Proposal Presentation
+  - [Instructions](https://docs.google.com/document/d/1AQoByvFft_5XwP9uwaDARq3AbuvZdg0vcP9UxsrrZm4/edit?usp=sharing)
+  - [Slide Template for Proposal Presentation](https://docs.google.com/presentation/d/14L7oQrhPpln_PINyVf4EW1z5WQhELCi-5KpkxoZyLco/edit?usp=sharing)
+- Final Presentation
+  - [Slide Template for Final Presentation](https://docs.google.com/presentation/d/1Vj2j2jxSxESm8QgmkFrwUZ1yG4sGNGex_miQeExcd_w/edit?usp=sharing)
 
 
 ### What is a good presentation? 
