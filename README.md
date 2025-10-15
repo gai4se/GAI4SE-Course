@@ -52,9 +52,9 @@ Please check the complete outline in the syllabus. The table below progressively
 | 14    | 7 October, Tue  |    Recent Trends + Group Project Proposal Presentation - 3                                 |     |                            |                           |
 | 15    | 9 October, Thu  |     **Mid-term Exam (NO ONE SHOULD MISS IT!!!)**                                |     |     [OpenAI models](https://platform.openai.com/docs/guides/supervised-fine-tuning)                        |                           |
 | 16    | 14 October, Tue |       Fall Break (No class)                              |     |                            |                           |
-| 17    | 16 October, Thu |      [Read and Discussion]   Frontier AI Safety Policies                            |     |                            |       [Resources](https://metr.org/faisc)                    |
-| 18    | 21 October, Tue |        [**Hands-on Programming**] Fine Tune OpenAI Models                             |     |                            |                           |
-| 19    | 23 October, Thu |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
+| 17    | 16 October, Thu |      Systematic Code Migration                            | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQfyTBZJnKqAf3D5Jk8EPL-TvUurhRxTA7JeuyYTq64s7GbhBRg_P_XUMBDdSx4xVVn6ZVBCDdG4mr1/pub?start=false&loop=false&delayms=3000)    |                            |       [Resources](https://metr.org/faisc)                    |
+| 18    | 21 October, Tue |        Assignment Discussion + Competition Release                             |     |                            |                           |
+| 19    | 23 October, Thu |    TBA                                |     |                            |                           |
 | 20    | 28 October, Tue |       TBA                            |    |     Guest Speaker: Danning Xie (Meta Superintelligence Lab)                         |                         |
 | 21    | 30 October, Thu |      CWM: An Open-Weights LLM for Research on Code Generation with World Models                               |     |   Guest Speaker: Yuxiang Wei (UIUC)                         |                           |
 | 22    | 4 November, Tue |     TBA                             |     |                            |                           |
