@@ -55,8 +55,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | 17    | 16 October, Thu |      [Read and Discussion]   Frontier AI Safety Policies                            |     |                            |       [Resources](https://metr.org/faisc)                    |
 | 18    | 21 October, Tue |        [**Hands-on Programming**] Fine Tune OpenAI Models                             |     |                            |                           |
 | 19    | 23 October, Thu |    Take-home Assignment #3  (No class)                                 |     |                            |                           |
-| 20    | 28 October, Tue |       TBA                            |    |                            |                           |
-| 21    | 30 October, Thu |      TBA                               |     |                            |                           |
+| 20    | 28 October, Tue |       TBA                            |    |     Guest Speaker: Danning Xie (Meta Superintelligence Lab)                         |                         |
+| 21    | 30 October, Thu |      CWM: An Open-Weights LLM for Research on Code Generation with World Models                               |     |   Guest Speaker: Yuxiang Wei (UIUC)                         |                           |
 | 22    | 4 November, Tue |     TBA                             |     |                            |                           |
 | 23    | 6 November, Thu |       In-class Activity and Discussion                       |    |                            |                           |
 | **Deadline**     | 6 November, Thu |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
