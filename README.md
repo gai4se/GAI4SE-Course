@@ -57,6 +57,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 19    | 23 October, Thu |    [In-class activity] Vibe Coding                                |     |                            |                           |
 | 20    | 28 October, Tue |       TBA                            |    |     Guest Speaker: Danning Xie (Meta Superintelligence Lab)                         |                         |
 | 21    | 30 October, Thu |      CWM: An Open-Weights LLM for Research on Code Generation with World Models                               |     |   Guest Speaker: Yuxiang Wei (UIUC)                         |                           |
+| **Deadline**     | 3 November, Mon |    **Submit your first result at Kaggle**                                   |     |                            |               
 | 22    | 4 November, Tue |      Causal Inference                            |     |   Guest Speaker: Alejandro Velasco (William and Mary)                         |                           |
 | 23    | 6 November, Thu |       In-class Activity and Discussion                       |    |                            |                           |
 | **Deadline**     | 6 November, Thu |    **Take-home Assignment #3 Submission via Email**                                    |     |                            |                           |
