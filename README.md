@@ -80,6 +80,9 @@ Please check the complete outline in the syllabus. The table below progressively
 - Final Presentation
   - [Slide Template for Final Presentation](https://docs.google.com/presentation/d/1Vj2j2jxSxESm8QgmkFrwUZ1yG4sGNGex_miQeExcd_w/edit?usp=sharing)
 
+## Kaggle Competition: Code Backdoor Detection
+
+- [Competition](https://www.kaggle.com/competitions/backdoor-detection-in-code-snippets)
 
 ### What is a good presentation? 
 
