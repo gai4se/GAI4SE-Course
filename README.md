@@ -59,7 +59,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 21    | 30 October, Thu |      Toward Autonomous Software Engineering with Large Language Models                               |  [Slides](https://drive.google.com/file/d/1c6Hx3ZvMVF5JHTD-nDWHxKKH_IrEHrGa/view?usp=sharing)   |   Guest Speaker: Yuxiang Wei (UIUC)                         |     Read this [post](https://ai.meta.com/research/publications/cwm-an-open-weights-llm-for-research-on-code-generation-with-world-models/) before the class.                     |
 | **Deadline**     | 3 November, Mon |    **Submit your first result at Kaggle**                                   |     |                            |               
 | 22    | 4 November, Tue |      Causal Inference                            |     |   Guest Speaker: Alejandro Velasco (William and Mary)                         |                           |
-| 23    | 6 November, Thu |       TBA                       |    |    Guest Speaker: Yonglin Zhu (SAS)                         |                           |
+| 23    | 6 November, Thu |       Analytical Software Engineering with Generative AI in Practice                       |   |    Guest Speaker: Yonglin Zhu (SAS)                         |                           |
 | 24    | 11 November, Tue | Project and Competition Workday (No class)                                  |    |                            |                           |
 | 25    | 13 November, Thu |    TBA                                 |     |                            |                           |
 | 26    | 18 November, Tue |   Project Solution Presentation - 1                                |     |                            |                           |
