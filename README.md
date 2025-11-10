@@ -60,8 +60,8 @@ Please check the complete outline in the syllabus. The table below progressively
 | **Deadline**     | 3 November, Mon |    **Submit your first result at Kaggle**                                   |     |                            |               
 | 22    | 4 November, Tue |      Causal Inference                            |     |   Guest Speaker: Alejandro Velasco (William and Mary)                         |                           |
 | 23    | 6 November, Thu |       Analytical Software Engineering with Generative AI in Practice                       |   |    Guest Speaker: Yonglin Zhu (SAS)                         |                           |
-| 24    | 11 November, Tue | Project and Competition Workday (No class)                                  |    |                            |                           |
-| 25    | 13 November, Thu |    TBA                                 |     |                            |                           |
+| 24    | 11 November, Tue |   Assignment Discussion                                |    |                            |                           |
+| 25    | 13 November, Thu |    Project and Competition Workday (No class)                                 |     |                            |                           |
 | 26    | 18 November, Tue |   Project Solution Presentation - 1                                |     |                            |                           |
 | 27    | 20 November, Thu |   Project Solution Presentation - 2                                 |     |                            |                           |
 | 28    | 25 November, Tue |   Project Solution Presentation - 3                                 |     |                            |                           |
