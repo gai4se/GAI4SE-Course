@@ -64,7 +64,7 @@ Please check the complete outline in the syllabus. The table below progressively
 | 25    | 13 November, Thu |    Project and Competition Workday (No class)                                 |     |                            |                           |
 | 26    | 18 November, Tue |   Project Solution Presentation - 1                                |     |                            |                           |
 | 27    | 20 November, Thu |   Project Solution Presentation - 2                                 |     |                            |                           |
-| **Deadline**     | 23 November, Sun |    **Submit your final result at Kaggle and analysis report**                                   |     |                            |               
+| **Deadline**     | 23 November, Sun |    **Submit your final result at Kaggle and analysis report**                                   |     |        [Guideline and Requirement](https://docs.google.com/document/d/1_u2_SsnVVlDLkoUHC3_VO0OYZ0f9oFJD_6vmjXI9Fzo/edit?usp=sharing)                    |               
 | 28    | 25 November, Tue |   Project Solution Presentation - 3                                 |     |                            |                           |
 | 29    | 27 November, Thu |  Thanksgiving Holiday (No class; University closed Thu & Fri)                                  |     |                            |                           |
 | 30    | 2 December, Tue |     Group project artifact preparasion (No class)                               |    |                            |                           |
